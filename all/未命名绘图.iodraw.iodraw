@@ -293,7 +293,7 @@
           <mxGeometry x="110" y="260" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-234" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-910" y="220" width="370" height="310" as="geometry" />
+          <mxGeometry x="460" y="-440" width="370" height="310" as="geometry" />
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-145" value="农技交流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="SwJ1Msm3cHU6ZNFvN6aD-234">
           <mxGeometry x="80" y="140" width="110" height="50" as="geometry" />
@@ -490,12 +490,7 @@
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-244" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="SwJ1Msm3cHU6ZNFvN6aD-237" source="SwJ1Msm3cHU6ZNFvN6aD-240">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-68" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-287" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="SwJ1Msm3cHU6ZNFvN6aD-244">
-          <mxGeometry x="0.89" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-120" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-240" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="SwJ1Msm3cHU6ZNFvN6aD-237">
