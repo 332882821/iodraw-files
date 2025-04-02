@@ -596,8 +596,16 @@
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-249" value="对应" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="505" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-259" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SwJ1Msm3cHU6ZNFvN6aD-255">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-255" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="165" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-256" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SwJ1Msm3cHU6ZNFvN6aD-199" target="SwJ1Msm3cHU6ZNFvN6aD-255">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
