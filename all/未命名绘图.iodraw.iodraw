@@ -526,7 +526,7 @@
             <mxPoint x="-68" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-240" value="种植" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="SwJ1Msm3cHU6ZNFvN6aD-237">
+        <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-240" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="SwJ1Msm3cHU6ZNFvN6aD-237">
           <mxGeometry x="-28" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-238" value="" style="group" vertex="1" connectable="0" parent="1">
