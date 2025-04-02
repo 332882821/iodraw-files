@@ -382,6 +382,11 @@
             <mxPoint x="410" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-294" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="SwJ1Msm3cHU6ZNFvN6aD-236" source="SwJ1Msm3cHU6ZNFvN6aD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="SwJ1Msm3cHU6ZNFvN6aD-236">
           <mxGeometry x="140" y="140" width="110" height="50" as="geometry" />
         </mxCell>
@@ -693,6 +698,9 @@
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;endArrow=none;endFill=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="SwJ1Msm3cHU6ZNFvN6aD-6" target="SwJ1Msm3cHU6ZNFvN6aD-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-295" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
