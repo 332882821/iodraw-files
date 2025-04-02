@@ -514,7 +514,7 @@
           <mxGeometry x="110" y="260" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-238" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="330" y="-170" width="460" height="320" as="geometry" />
+          <mxGeometry x="410" y="-250" width="460" height="320" as="geometry" />
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-104" value="病虫害库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="SwJ1Msm3cHU6ZNFvN6aD-238">
           <mxGeometry x="170" y="140" width="110" height="50" as="geometry" />
