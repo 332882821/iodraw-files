@@ -165,7 +165,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-229" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-414" y="450" width="370" height="270" as="geometry" />
+          <mxGeometry x="-430" y="460" width="370" height="270" as="geometry" />
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-185" value="完成任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="SwJ1Msm3cHU6ZNFvN6aD-229">
           <mxGeometry x="80" y="140" width="110" height="50" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry x="180" y="240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-284" value="指派" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=-45;" vertex="1" parent="SwJ1Msm3cHU6ZNFvN6aD-229">
-          <mxGeometry x="180" y="30" width="80" height="40" as="geometry" />
+          <mxGeometry x="195" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-232" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-50" y="500" width="380" height="290" as="geometry" />
