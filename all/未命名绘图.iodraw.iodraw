@@ -1,10 +1,10 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Jz8amVuvhhNjwr-Lkj5i">
-    <mxGraphModel dx="3088" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4841" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JE8ovBCOuoji6x8N_rOk-2" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JE8ovBCOuoji6x8N_rOk-2" value="" style="group;fontSize=30;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1010" y="-540" width="2560" height="1500" as="geometry" />
         </mxCell>
         <mxCell id="SwJ1Msm3cHU6ZNFvN6aD-19" value="作物种植" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="JE8ovBCOuoji6x8N_rOk-2" vertex="1">
