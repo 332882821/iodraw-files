@@ -581,12 +581,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-329" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1100" y="2589.995" width="495" height="1439.8450000000003" as="geometry" />
+          <mxGeometry x="1940" y="2580.005" width="495" height="1439.8450000000003" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-330" value="" style="strokeWidth=10;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;rotation=90;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-329">
           <mxGeometry x="127.67000000000007" y="-68.16499999999996" width="236.6" height="372.93" as="geometry" />
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-331" value="查看关于我们信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-329">
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-331" value="查看轮播图信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-329">
           <mxGeometry y="297.85" width="120" height="701.89" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-332" value="更新关于我们信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-329">
