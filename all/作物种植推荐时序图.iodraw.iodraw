@@ -190,10 +190,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-51" value="" style="endArrow=classic;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="1" target="-Fag-t0-wU-N1T2fDtg6-46">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-51" value="" style="endArrow=classic;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="679" y="596" as="sourcePoint" />
-            <mxPoint x="679" y="626" as="targetPoint" />
+            <mxPoint x="620" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="680" y="630" />
             </Array>
@@ -201,8 +201,22 @@
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-52" value="计算相似度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-51">
           <mxGeometry x="-0.8442" y="-2" relative="1" as="geometry">
-            <mxPoint y="2" as="offset" />
+            <mxPoint y="10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="622" y="660" as="sourcePoint" />
+            <mxPoint x="776" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-54" value="返回信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-53">
+          <mxGeometry x="-0.1039" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="786" y="595" width="20" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
