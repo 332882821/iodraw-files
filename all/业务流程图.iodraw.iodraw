@@ -234,56 +234,6 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-98" value="更新用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-93">
           <mxGeometry x="370" y="462.25" width="120" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-99" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-6400" y="2580" width="490" height="942.25" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-100" value="" style="strokeWidth=10;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;rotation=90;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-99">
-          <mxGeometry x="90" y="-40.75" width="299" height="380.5" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-101" value="查看用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-99">
-          <mxGeometry y="462.25" width="120" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-102" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yR1auHhi-Quxu6Nf3HfM-99" source="yR1auHhi-Quxu6Nf3HfM-100" target="yR1auHhi-Quxu6Nf3HfM-101">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50.25" y="1387.25" as="sourcePoint" />
-            <mxPoint y="447.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-103" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yR1auHhi-Quxu6Nf3HfM-99" source="yR1auHhi-Quxu6Nf3HfM-100" target="yR1auHhi-Quxu6Nf3HfM-104">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359.25" y="333.25" as="sourcePoint" />
-            <mxPoint x="367.25" y="457.25" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-104" value="更新用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-99">
-          <mxGeometry x="370" y="462.25" width="120" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-105" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-8100" y="2612.75" width="490" height="942.25" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-106" value="" style="strokeWidth=10;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;rotation=90;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-105">
-          <mxGeometry x="90" y="-40.75" width="299" height="380.5" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-107" value="查看用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-105">
-          <mxGeometry y="462.25" width="120" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-108" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yR1auHhi-Quxu6Nf3HfM-105" source="yR1auHhi-Quxu6Nf3HfM-106" target="yR1auHhi-Quxu6Nf3HfM-107">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50.25" y="1387.25" as="sourcePoint" />
-            <mxPoint y="447.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-109" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yR1auHhi-Quxu6Nf3HfM-105" source="yR1auHhi-Quxu6Nf3HfM-106" target="yR1auHhi-Quxu6Nf3HfM-110">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359.25" y="333.25" as="sourcePoint" />
-            <mxPoint x="367.25" y="457.25" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-110" value="更新用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-105">
-          <mxGeometry x="370" y="462.25" width="120" height="480" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
