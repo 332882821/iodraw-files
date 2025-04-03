@@ -13,6 +13,12 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;管理员登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="130" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194.75" y="120" as="sourcePoint" />
+            <mxPoint x="244.75" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
