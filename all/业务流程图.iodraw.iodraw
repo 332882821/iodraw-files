@@ -23,6 +23,10 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=110;fontColor=default;labelBackgroundColor=none;endArrow=classic;strokeWidth=5;labelBorderColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="yR1auHhi-Quxu6Nf3HfM-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3841" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-3840" y="330" />
+              <mxPoint x="-3690" y="330" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-1" value="&lt;font style=&quot;font-size: 110px;&quot;&gt;管理员登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -52,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-11" value="&lt;font style=&quot;font-size: 110px;&quot;&gt;开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2430" y="360" width="600" height="320" as="geometry" />
+          <mxGeometry x="-2140" y="370" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-13" value="&lt;font style=&quot;font-size: 110px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-6780" y="1360" width="600" height="320" as="geometry" />
