@@ -63,10 +63,10 @@
         <mxCell id="drljghU39gG9ItoYXh6T-169" value="指导员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="24174.3" y="10776" width="140" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-171" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;exitX=0.886;exitY=0.089;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-163">
+        <mxCell id="drljghU39gG9ItoYXh6T-171" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="24070" y="10880" as="sourcePoint" />
-            <mxPoint x="24070" y="10790" as="targetPoint" />
+            <mxPoint x="24040" y="10910" as="sourcePoint" />
+            <mxPoint x="24060" y="10786.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
