@@ -326,13 +326,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-83" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-83" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" target="-Fag-t0-wU-N1T2fDtg6-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="340" as="sourcePoint" />
-            <mxPoint x="100" y="410" as="targetPoint" />
+            <mxPoint x="89.5" y="500" as="sourcePoint" />
+            <mxPoint x="89.5" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="380" />
+              <mxPoint x="89.5" y="540" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-84" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="440" as="sourcePoint" />
+            <mxPoint x="254" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-85" value="数据格式&lt;br&gt;有误" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-84">
+          <mxGeometry x="-0.1039" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
