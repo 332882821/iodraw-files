@@ -9,6 +9,11 @@
             <mxPoint x="23804" y="10850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-177" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-145">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="23804" y="11040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-145" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是否登录成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;container=0;" vertex="1" parent="1">
           <mxGeometry x="23729.99930252101" y="10900.001633117949" width="148.60747899159665" height="69.85778071746834" as="geometry" />
         </mxCell>
@@ -32,7 +37,7 @@
           <mxGeometry x="24169.99930252101" y="10895.321633117948" width="148.60747899159665" height="69.85778071746834" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-147" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;container=0;" vertex="1" parent="1">
-          <mxGeometry x="24368.603224089635" y="10949.995274141997" width="76.20896358543416" height="40.64452696289067" as="geometry" />
+          <mxGeometry x="24380.003224089636" y="10909.355274141997" width="76.20896358543416" height="40.64452696289067" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-158" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=classic;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBorderColor=none;fillColor=none;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-157">
           <mxGeometry relative="1" as="geometry">
@@ -84,6 +89,9 @@
             <mxPoint x="24040" y="10910" as="sourcePoint" />
             <mxPoint x="24041" y="10795" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-176" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.962;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-147" target="drljghU39gG9ItoYXh6T-146">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
