@@ -195,14 +195,14 @@
             <mxPoint x="679" y="596" as="sourcePoint" />
             <mxPoint x="679" y="626" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="679" y="616" />
+              <mxPoint x="680" y="630" />
               <mxPoint x="650" y="616" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-52" value="计算相似度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-51">
           <mxGeometry x="-0.8442" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
