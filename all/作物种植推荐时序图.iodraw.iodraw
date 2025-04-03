@@ -7,10 +7,6 @@
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="-Fag-t0-wU-N1T2fDtg6-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="90" y="180" />
-              <mxPoint x="91" y="180" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;flipH=1;" vertex="1" parent="1">
