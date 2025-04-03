@@ -74,7 +74,7 @@
             <mxPoint x="24040" y="10796" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xKOgp8LKYkLA_o67TD1X-17" value="指导员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="xKOgp8LKYkLA_o67TD1X-17" value="注册" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="24174.3" y="10776" width="140" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-18" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;" edge="1" parent="1">
