@@ -96,16 +96,26 @@
         <mxCell id="drljghU39gG9ItoYXh6T-178" value="病虫害库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="23724.3" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-183" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-179">
+        <mxCell id="drljghU39gG9ItoYXh6T-183" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" target="drljghU39gG9ItoYXh6T-179">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="24023" y="11000" as="targetPoint" />
+            <mxPoint x="24023" y="11000" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-179" value="农技交流" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="23943" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-185" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-180">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="24460" y="11000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-180" value="农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="24380" y="11040" width="160" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-184" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" target="drljghU39gG9ItoYXh6T-181">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="24241" y="11000" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-181" value="作物指南" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="24161" y="11040" width="160" height="39.5" as="geometry" />
