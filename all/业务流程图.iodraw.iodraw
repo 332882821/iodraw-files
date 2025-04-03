@@ -90,8 +90,11 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-29" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;举报记录管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="560" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-30" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;举报记录管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-30" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="320" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-31" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="450" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
