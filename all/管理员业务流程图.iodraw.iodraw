@@ -174,7 +174,7 @@
           <mxGeometry x="23494.725998235295" y="11468.46139654591" width="30.05173464052289" height="47.3673857508463" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-88" value="查看用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="23478.510000933707" y="11514.949844401184" width="20" height="70" as="geometry" />
+          <mxGeometry x="23478.510000933707" y="11514.949844401184" width="19" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-91" value="更新用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="23526.1406031746" y="11512.66358975952" width="15.241792717086843" height="91.43621411036052" as="geometry" />
