@@ -87,9 +87,6 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-23" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;田间记录管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-3121" y="1340" width="600" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-24" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;意见反馈管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1475" y="1340" width="600" height="320" as="geometry" />
-        </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-25" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;任务信息管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-377" y="1340" width="600" height="320" as="geometry" />
         </mxCell>
@@ -101,9 +98,6 @@
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-28" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;论坛分类管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-6413" y="1340" width="600" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-29" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;举报记录管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-4218" y="1340" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-30" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1445" y="1440" width="600" height="320" as="geometry" />
