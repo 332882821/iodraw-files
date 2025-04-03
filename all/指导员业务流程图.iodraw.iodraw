@@ -96,6 +96,12 @@
         <mxCell id="drljghU39gG9ItoYXh6T-178" value="指导员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="23734.3" y="11040" width="140" height="39.5" as="geometry" />
         </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-179" value="指导员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="23960" y="11140" width="140" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-180" value="指导员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="23980" y="10940.5" width="140" height="39.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
