@@ -112,16 +112,14 @@
             <mxPoint x="23937.287961718022" y="11437.090172437896" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-64" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.496;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;labelBorderColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="24044.10752567694" y="11348.56131214685" as="sourcePoint" />
-            <mxPoint x="24045.25066013072" y="11437.471214878173" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-65" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.496;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;labelBorderColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="24148.51380578898" y="11348.68832629361" as="sourcePoint" />
             <mxPoint x="24149.656940242763" y="11437.598229024932" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="24150" y="11349" />
+              <mxPoint x="24150" y="11394" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-68" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.496;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;labelBorderColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
