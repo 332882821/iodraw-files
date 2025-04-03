@@ -40,7 +40,7 @@
         <mxCell id="XoQQrn-An_90USnWsuRB-10" value="分配任务" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=20;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="504" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XoQQrn-An_90USnWsuRB-11" value="公告与通知" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=20;flipH=1;flipV=1;" vertex="1" parent="1">
+        <mxCell id="XoQQrn-An_90USnWsuRB-11" value="发布文章" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=20;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="626" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XoQQrn-An_90USnWsuRB-12" value="互动交流" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=20;flipH=1;flipV=1;" vertex="1" parent="1">
