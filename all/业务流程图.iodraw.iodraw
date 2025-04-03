@@ -94,7 +94,7 @@
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-60" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="yR1auHhi-Quxu6Nf3HfM-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-7030" y="1560" as="sourcePoint" />
+            <mxPoint x="-7050" y="1580" as="sourcePoint" />
             <mxPoint x="-6989.5" y="2244.6800000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
