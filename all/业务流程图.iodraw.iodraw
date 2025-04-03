@@ -28,7 +28,7 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-1" value="&lt;font style=&quot;font-size: 110px;&quot;&gt;管理员登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-3990" y="400" width="600" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=110;fontColor=default;labelBackgroundColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=5;labelBorderColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yR1auHhi-Quxu6Nf3HfM-0">
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=110;fontColor=default;labelBackgroundColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=10;labelBorderColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yR1auHhi-Quxu6Nf3HfM-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-4135.25" y="320" as="sourcePoint" />
             <mxPoint x="-4110" y="290" as="targetPoint" />
