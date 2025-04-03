@@ -219,7 +219,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-220" value="病虫害库表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="23739" y="11392" width="120" height="60" as="geometry" />
+          <mxGeometry x="23744.95" y="11392" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-221" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="23753.65" y="11342" width="121.3" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=20;" edge="1" parent="drljghU39gG9ItoYXh6T-221" source="drljghU39gG9ItoYXh6T-223">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60.821731949037805" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-223" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;" vertex="1" parent="drljghU39gG9ItoYXh6T-221">
+          <mxGeometry width="121.30000000000153" height="21.78" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-224" value="病虫害库表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="23754.95" y="11402" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
