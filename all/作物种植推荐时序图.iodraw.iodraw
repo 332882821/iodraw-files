@@ -143,10 +143,16 @@
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="776" y="585" width="20" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-43" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-43" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="-Fag-t0-wU-N1T2fDtg6-18" target="-Fag-t0-wU-N1T2fDtg6-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="390" as="sourcePoint" />
             <mxPoint x="970" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="460" as="sourcePoint" />
+            <mxPoint x="600" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
