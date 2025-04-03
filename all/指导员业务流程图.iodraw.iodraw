@@ -40,6 +40,12 @@
         <mxCell id="drljghU39gG9ItoYXh6T-163" value="指导员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="23950" y="10910.5" width="140" height="59.36" as="geometry" />
         </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-166" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="24210" y="11160" as="sourcePoint" />
+            <mxPoint x="24260" y="11110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
