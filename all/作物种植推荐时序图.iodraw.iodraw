@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="210" width="30" height="60" as="geometry" />
+          <mxGeometry x="130" y="210" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-2" value="&lt;u&gt;:ZuowuzhinanController&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="210" width="160" height="40" as="geometry" />
