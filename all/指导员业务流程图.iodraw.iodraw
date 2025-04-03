@@ -246,7 +246,7 @@
         <mxCell id="drljghU39gG9ItoYXh6T-227" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;" vertex="1" parent="drljghU39gG9ItoYXh6T-225">
           <mxGeometry width="121.30000000000153" height="21.78" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-228" value="病虫害库表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="drljghU39gG9ItoYXh6T-228" value="作物指南表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="24181.65" y="11392" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-229" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="1">
@@ -260,7 +260,7 @@
         <mxCell id="drljghU39gG9ItoYXh6T-231" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;" vertex="1" parent="drljghU39gG9ItoYXh6T-229">
           <mxGeometry width="121.30000000000153" height="21.78" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-232" value="病虫害库表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="drljghU39gG9ItoYXh6T-232" value="农业资讯表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="24401.8" y="11392" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
