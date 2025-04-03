@@ -204,7 +204,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-88" value="查看用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-115">
-          <mxGeometry y="462.25" width="120" height="480" as="geometry" />
+          <mxGeometry y="462.25" width="120" height="587.75" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-91" value="更新用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-115">
           <mxGeometry x="370" y="462.25" width="120" height="480" as="geometry" />
@@ -237,7 +237,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-120" value="查看用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-116">
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-120" value="查指导员户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-116">
           <mxGeometry y="462.25" width="120" height="480" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-121" value="更新用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-116">
