@@ -298,7 +298,7 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-252" value="" style="strokeWidth=10;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=north;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-248">
           <mxGeometry x="68.5" y="1005.4468082501417" width="350" height="114.31531361838387" as="geometry" />
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-253" value="病虫害库表" style="strokeWidth=10;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;pointerEvents=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-248">
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-253" value="农技交流表" style="strokeWidth=10;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;pointerEvents=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-248">
           <mxGeometry x="46.61999999999989" y="1211.2143727632324" width="393.75" height="228.63062723676774" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-254" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="yR1auHhi-Quxu6Nf3HfM-248" source="yR1auHhi-Quxu6Nf3HfM-252" target="yR1auHhi-Quxu6Nf3HfM-253">
@@ -311,6 +311,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-256" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="yR1auHhi-Quxu6Nf3HfM-248">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="433" y="220.84500000000025" as="sourcePoint" />
+            <mxPoint x="433" y="281.84500000000025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-257" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-5590" y="2589.995" width="495" height="1439.8450000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-258" value="" style="strokeWidth=10;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;rotation=90;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-257">
+          <mxGeometry x="127.67000000000007" y="-68.16499999999996" width="236.6" height="372.93" as="geometry" />
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-259" value="查看农技交流信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-257">
+          <mxGeometry y="297.84500000000025" width="120" height="701.89" as="geometry" />
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-260" value="更新农技交流信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=south;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-257">
+          <mxGeometry x="375" y="279.84500000000025" width="120" height="719.89" as="geometry" />
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-261" value="" style="strokeWidth=10;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;direction=north;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-257">
+          <mxGeometry x="68.5" y="1005.4468082501417" width="350" height="114.31531361838387" as="geometry" />
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-262" value="农技交流表" style="strokeWidth=10;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;pointerEvents=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" parent="yR1auHhi-Quxu6Nf3HfM-257">
+          <mxGeometry x="46.61999999999989" y="1211.2143727632324" width="393.75" height="228.63062723676774" as="geometry" />
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-263" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="yR1auHhi-Quxu6Nf3HfM-257" source="yR1auHhi-Quxu6Nf3HfM-261" target="yR1auHhi-Quxu6Nf3HfM-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-264" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="yR1auHhi-Quxu6Nf3HfM-257" source="yR1auHhi-Quxu6Nf3HfM-258" target="yR1auHhi-Quxu6Nf3HfM-259">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46" y="235.91500000000087" as="sourcePoint" />
+            <mxPoint x="41.51000000000022" y="297.8450000000007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-265" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="yR1auHhi-Quxu6Nf3HfM-257">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="433" y="220.84500000000025" as="sourcePoint" />
             <mxPoint x="433" y="281.84500000000025" as="targetPoint" />
