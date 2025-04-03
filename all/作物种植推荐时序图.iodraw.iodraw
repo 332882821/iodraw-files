@@ -91,14 +91,9 @@
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="284" y="300" as="sourcePoint" />
-            <mxPoint x="438" y="300" as="targetPoint" />
+            <mxPoint x="450" y="290" as="sourcePoint" />
+            <mxPoint x="604" y="290" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-27" value="请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-26">
-          <mxGeometry x="0.026" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
