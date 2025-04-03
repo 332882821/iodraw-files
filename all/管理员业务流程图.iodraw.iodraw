@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-87" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;rotation=90;container=0;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="23496.6" y="11470.34" width="30.05" height="43.62" as="geometry" />
+          <mxGeometry x="23499.6" y="11470.34" width="30.05" height="43.62" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-88" value="查看用户信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="23478.51" y="11514.95" width="30" height="90" as="geometry" />
@@ -201,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-231" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;rotation=90;container=0;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="23605.6100402521" y="11468.18704598891" width="30.05173464052289" height="47.3673857508463" as="geometry" />
+          <mxGeometry x="23610.53" y="11468.26" width="28.39" height="45.55" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-232" value="查看指导员信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="23589.394042950516" y="11514.675493844185" width="30" height="90" as="geometry" />
