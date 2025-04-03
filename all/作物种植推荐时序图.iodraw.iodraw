@@ -284,7 +284,7 @@
             <mxPoint x="428" y="632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-72" value="展示给用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-71">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-72" value="页面跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-71">
           <mxGeometry x="-0.1039" y="1" relative="1" as="geometry">
             <mxPoint x="22" y="1" as="offset" />
           </mxGeometry>
