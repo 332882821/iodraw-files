@@ -163,7 +163,7 @@
         <mxCell id="drljghU39gG9ItoYXh6T-202" value="更新农技交流" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=right;" vertex="1" parent="1">
           <mxGeometry x="23934.15" y="11147.52" width="65.7" height="184.48" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-203" value="更新病虫害库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=right;" vertex="1" parent="1">
+        <mxCell id="drljghU39gG9ItoYXh6T-203" value="查看农技交流" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=right;" vertex="1" parent="1">
           <mxGeometry x="24040.15" y="11147.52" width="65.7" height="183.48" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-204" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-201" target="drljghU39gG9ItoYXh6T-202">
@@ -183,7 +183,7 @@
         <mxCell id="drljghU39gG9ItoYXh6T-208" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;rotation=-180;" vertex="1" parent="drljghU39gG9ItoYXh6T-206">
           <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-209" value="更新病虫害库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=right;" vertex="1" parent="1">
+        <mxCell id="drljghU39gG9ItoYXh6T-209" value="更新作物指南" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=right;" vertex="1" parent="1">
           <mxGeometry x="24155.15" y="11147.52" width="65.7" height="184.48" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-210" value="更新病虫害库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=right;" vertex="1" parent="1">
