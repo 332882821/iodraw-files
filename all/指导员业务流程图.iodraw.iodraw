@@ -94,10 +94,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-178" value="病虫害库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="23734.3" y="11040" width="150" height="39.5" as="geometry" />
+          <mxGeometry x="23734.3" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-179" value="农技交流" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="23950" y="11040" width="140" height="39.5" as="geometry" />
+          <mxGeometry x="23950" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-180" value="农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="24380" y="11040" width="140" height="39.5" as="geometry" />
