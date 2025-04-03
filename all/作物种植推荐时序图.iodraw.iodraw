@@ -111,7 +111,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-34" value="请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-33">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-34" value="查询用户&lt;br&gt;信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-33">
           <mxGeometry x="0.026" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
