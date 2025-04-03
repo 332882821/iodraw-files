@@ -22,7 +22,7 @@
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-7" value="&lt;u&gt;数据库&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="565" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-8" value="&lt;u&gt;:ZuowuzhinanController&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-8" value="种植指南界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
