@@ -52,16 +52,16 @@
           <mxGeometry x="950" y="280" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-17" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;作物种类管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=30;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1648" y="280" width="300" height="160" as="geometry" />
+          <mxGeometry x="1250" y="560" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-18" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;作物指南管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=30;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2113" y="280" width="300" height="160" as="geometry" />
+          <mxGeometry x="2113" y="470" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-19" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;作物种植管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=30;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2578" y="280" width="300" height="160" as="geometry" />
+          <mxGeometry x="2940" y="300" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-20" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;种植日历管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=30;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1415" y="280" width="300" height="160" as="geometry" />
+          <mxGeometry x="827" y="610" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-21" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;病虫害诊断管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=30;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="280" width="300" height="160" as="geometry" />
@@ -70,13 +70,13 @@
           <mxGeometry x="485" y="280" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-23" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;田间记录管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=30;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1183" y="280" width="300" height="160" as="geometry" />
+          <mxGeometry x="440" y="650" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-24" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;意见反馈管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=30;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1880" y="280" width="300" height="160" as="geometry" />
+          <mxGeometry x="1670" y="540" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-25" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;任务信息管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=30;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2345" y="280" width="300" height="160" as="geometry" />
+          <mxGeometry x="2530" y="400" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-26" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;完成任务管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=30;flipH=0;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3410" y="260" width="300" height="160" as="geometry" />
