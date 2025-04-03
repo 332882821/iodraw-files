@@ -234,7 +234,7 @@
           <mxGeometry x="23709.762290485527" y="11468.18704598891" width="30.05173464052289" height="47.3673857508463" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-241" value="查看病虫害库信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="23680" y="11514.68" width="28.79" height="89.15" as="geometry" />
+          <mxGeometry x="23680" y="11514.68" width="30" height="89.15" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-242" value="更新病虫害库信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="23741.176895424836" y="11512.389239202521" width="15.241792717086843" height="91.43621411036052" as="geometry" />
