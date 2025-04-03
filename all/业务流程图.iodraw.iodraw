@@ -63,8 +63,11 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-20" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;种植日历管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="370" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;种植日历管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;病虫害诊断管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="460" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;种植日历管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="560" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
