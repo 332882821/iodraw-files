@@ -27,6 +27,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="24082.942343370683" y="11203.511156548033" as="sourcePoint" />
             <mxPoint x="24200" y="11180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="23989" y="11189" />
+              <mxPoint x="24132" y="11189" />
+              <mxPoint x="24200" y="11190" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-38" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;fontSize=13;fontColor=default;fillColor=none;labelBorderColor=none;labelBackgroundColor=none;container=0;" vertex="1" connectable="0" parent="yR1auHhi-Quxu6Nf3HfM-8">
