@@ -331,6 +331,11 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-278" value="更新作物种类信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="24165.406792717087" y="11512.389239202521" width="30" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="yR1auHhi-Quxu6Nf3HfM-374" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=200;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;endArrow=classic;fillColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yR1auHhi-Quxu6Nf3HfM-279">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="24171" y="11611.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-279" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="24126.47671381886" y="11604.550933764225" width="44.455228758169966" height="14.519662020730332" as="geometry" />
         </mxCell>
@@ -596,9 +601,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-371" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.574;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=200;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;endArrow=classic;fillColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yR1auHhi-Quxu6Nf3HfM-243" target="yR1auHhi-Quxu6Nf3HfM-244">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-373" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.464;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=200;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;endArrow=classic;fillColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yR1auHhi-Quxu6Nf3HfM-279" target="yR1auHhi-Quxu6Nf3HfM-280">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
