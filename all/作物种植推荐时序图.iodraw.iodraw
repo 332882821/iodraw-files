@@ -192,8 +192,8 @@
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="660" as="sourcePoint" />
-            <mxPoint x="660" y="620" as="targetPoint" />
+            <mxPoint x="680" y="630" as="sourcePoint" />
+            <mxPoint x="680" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="680" y="620" />
             </Array>
