@@ -55,6 +55,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-170" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="24070" y="10795.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-169" value="指导员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="24174.3" y="10776" width="140" height="39.5" as="geometry" />
         </mxCell>
