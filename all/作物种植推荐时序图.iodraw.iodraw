@@ -130,8 +130,8 @@
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-41" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="959.5" y="680" as="sourcePoint" />
-            <mxPoint x="960" y="750" as="targetPoint" />
+            <mxPoint x="785.5" y="498" as="sourcePoint" />
+            <mxPoint x="786" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-56" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;fontSize=16;container=0;strokeWidth=2;" vertex="1" parent="1">
