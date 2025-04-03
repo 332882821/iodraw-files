@@ -96,6 +96,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-31" value="判断请求是否&lt;br&gt;正确" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-26">
+          <mxGeometry x="-0.0649" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
