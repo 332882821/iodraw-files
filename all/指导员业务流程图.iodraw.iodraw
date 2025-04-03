@@ -149,6 +149,29 @@
         <mxCell id="drljghU39gG9ItoYXh6T-198" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-188" target="drljghU39gG9ItoYXh6T-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-199" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="23966.15" y="11080" width="110" height="56.52" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="drljghU39gG9ItoYXh6T-199" source="drljghU39gG9ItoYXh6T-201">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-201" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;rotation=-180;" vertex="1" parent="drljghU39gG9ItoYXh6T-199">
+          <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-202" value="更新病虫害库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=right;" vertex="1" parent="1">
+          <mxGeometry x="23934.15" y="11147.52" width="65.7" height="184.48" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-203" value="更新病虫害库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=right;" vertex="1" parent="1">
+          <mxGeometry x="24040.15" y="11147.52" width="65.7" height="183.48" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-204" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-201" target="drljghU39gG9ItoYXh6T-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-205" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-201" target="drljghU39gG9ItoYXh6T-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
