@@ -58,31 +58,31 @@
           <mxGeometry x="-8200" y="2260" width="700" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-14" value="&lt;font style=&quot;font-size: 110px;&quot;&gt;指导员管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;flipH=1;flipV=1;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-7353" y="2260" width="700" height="320" as="geometry" />
+          <mxGeometry x="-7364" y="2260" width="700" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-16" value="病虫害库&lt;br style=&quot;font-size: 110px;&quot;&gt;管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=1;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-6507" y="2260" width="700" height="320" as="geometry" />
+          <mxGeometry x="-6529" y="2260" width="700" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-17" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;作物种类&lt;br&gt;&amp;nbsp;管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-3172" y="2260" width="700" height="320" as="geometry" />
+          <mxGeometry x="-3187" y="2260" width="700" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-18" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;作物指南&lt;br&gt;管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=1;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2330" y="2260" width="700" height="320" as="geometry" />
+          <mxGeometry x="-2351" y="2260" width="700" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-19" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;作物种植&lt;br&gt;&amp;nbsp;管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=1;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="515" y="2260" width="700" height="320" as="geometry" />
+          <mxGeometry x="-680" y="2260" width="700" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-20" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;种植日历&lt;br&gt;管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-3990" y="2260" width="700" height="320" as="geometry" />
+          <mxGeometry x="-4022" y="2260" width="700" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-23" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;田间记录&lt;br&gt;管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-4800" y="2260" width="700" height="320" as="geometry" />
+          <mxGeometry x="-4858" y="2260" width="700" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-25" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;任务信息&lt;br&gt;管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=1;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1510" y="2260" width="700" height="320" as="geometry" />
+          <mxGeometry x="-1516" y="2260" width="700" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-27" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;农技交流&lt;br&gt;管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-5660" y="2260" width="700" height="320" as="geometry" />
+          <mxGeometry x="-5693" y="2260" width="700" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-30" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1425" y="1530" width="700" height="320" as="geometry" />
