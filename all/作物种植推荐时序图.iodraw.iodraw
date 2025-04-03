@@ -13,7 +13,7 @@
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="330" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-4" value="Object" style="html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-4" value="ZuowuzhinanController" style="html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="380" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
