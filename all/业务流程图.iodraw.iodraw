@@ -113,12 +113,6 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-35" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;系统简介&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1425" y="1820" width="300" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-42" value="" style="shape=link;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=60;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;endArrow=classic;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-3990" y="1450" as="sourcePoint" />
-            <mxPoint x="-3890" y="1450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
