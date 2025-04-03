@@ -70,13 +70,13 @@
           <mxGeometry x="-1730" y="1340" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-18" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;作物指南管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-926" y="1340" width="600" height="320" as="geometry" />
+          <mxGeometry x="-990" y="1340" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-19" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;作物种植管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="171" y="1340" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-20" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;种植日历管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2572" y="1340" width="600" height="320" as="geometry" />
+          <mxGeometry x="-2350" y="1340" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-21" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;病虫害诊断管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-6690" y="1320" width="600" height="320" as="geometry" />
@@ -94,25 +94,25 @@
           <mxGeometry x="720" y="1340" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-27" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;农技交流管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;flipH=0;flipV=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-3669" y="1340" width="600" height="320" as="geometry" />
+          <mxGeometry x="-3760" y="1330" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-30" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1445" y="1440" width="600" height="320" as="geometry" />
+          <mxGeometry x="1445" y="2750" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-31" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;轮播图管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1425" y="1570" width="600" height="320" as="geometry" />
+          <mxGeometry x="1425" y="2880" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-32" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;关于我们&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1410" y="1704.5" width="600" height="320" as="geometry" />
+          <mxGeometry x="1410" y="3014.5" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-33" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;农业资讯&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1585" y="1590" width="600" height="320" as="geometry" />
+          <mxGeometry x="1585" y="2900" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-34" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;农业资讯分类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1625" y="1705" width="600" height="320" as="geometry" />
+          <mxGeometry x="1625" y="3015" width="600" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-35" value="&lt;span style=&quot;font-size: 110px;&quot;&gt;系统简介&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;fontSize=110;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1425" y="1820" width="600" height="320" as="geometry" />
+          <mxGeometry x="1425" y="3130" width="600" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
