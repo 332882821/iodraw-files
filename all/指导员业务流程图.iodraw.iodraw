@@ -93,6 +93,9 @@
         <mxCell id="drljghU39gG9ItoYXh6T-176" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.962;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="drljghU39gG9ItoYXh6T-147" target="drljghU39gG9ItoYXh6T-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-178" value="指导员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="23960" y="10920.5" width="140" height="39.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
