@@ -134,6 +134,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="24358.64487394958" y="11348.56131214685" as="sourcePoint" />
             <mxPoint x="24359.78800840336" y="11437.471214878173" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="24360" y="11349" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-69" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;endArrow=classic;exitX=0.986;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;labelBorderColor=none;fillColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
