@@ -596,11 +596,11 @@
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-349" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.496;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;labelBorderColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="23736.570177404294" y="11358.56131214685" as="sourcePoint" />
-            <mxPoint x="23737.713311858075" y="11447.471214878173" as="targetPoint" />
+            <mxPoint x="23619.920177404292" y="11348.29131214685" as="sourcePoint" />
+            <mxPoint x="23621.063311858074" y="11437.201214878172" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="23738" y="11359" />
-              <mxPoint x="23738" y="11404" />
+              <mxPoint x="23621.35" y="11348.73" />
+              <mxPoint x="23621.35" y="11393.73" />
             </Array>
           </mxGeometry>
         </mxCell>
