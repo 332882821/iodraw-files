@@ -134,12 +134,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-41" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="785.5" y="498" as="sourcePoint" />
-            <mxPoint x="786" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-56" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;fontSize=16;container=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="430" y="585" width="20" height="95" as="geometry" />
         </mxCell>
@@ -199,17 +193,6 @@
             <mxPoint x="22" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-76" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="796" y="370" as="sourcePoint" />
-            <mxPoint x="950" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-77" value="返回数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" parent="-Fag-t0-wU-N1T2fDtg6-76" vertex="1" connectable="0">
-          <mxGeometry x="-0.1039" y="1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-84" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="470" as="sourcePoint" />
@@ -234,12 +217,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="611.5" y="680" as="sourcePoint" />
             <mxPoint x="612" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-90" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="-Fag-t0-wU-N1T2fDtg6-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="459.5" y="700" as="sourcePoint" />
-            <mxPoint x="960" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TcA92Lp06Bhrq94k1V0Q-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1">
