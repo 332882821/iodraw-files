@@ -226,7 +226,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TcA92Lp06Bhrq94k1V0Q-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;fontSize=16;container=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="585" width="20" height="95" as="geometry" />
+          <mxGeometry x="602" y="585" width="20" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="TcA92Lp06Bhrq94k1V0Q-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="450" as="sourcePoint" />
+            <mxPoint x="750" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
