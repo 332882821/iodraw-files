@@ -93,7 +93,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-25" value="修改田间&lt;br&gt;记录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" parent="-Fag-t0-wU-N1T2fDtg6-24" vertex="1" connectable="0">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-25" value="请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" parent="-Fag-t0-wU-N1T2fDtg6-24" vertex="1" connectable="0">
           <mxGeometry x="0.026" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
