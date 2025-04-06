@@ -56,7 +56,7 @@
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="-Fag-t0-wU-N1T2fDtg6-8" target="-Fag-t0-wU-N1T2fDtg6-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-8" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;fontSize=16;container=0;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-8" value="种植指南界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;fontSize=16;container=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="194" y="20" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;fontSize=16;container=0;strokeWidth=2;" parent="1" vertex="1">
