@@ -267,7 +267,7 @@
             <mxPoint x="948" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TcA92Lp06Bhrq94k1V0Q-18" value="信息修改&lt;br&gt;成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" vertex="1" connectable="0" parent="TcA92Lp06Bhrq94k1V0Q-17">
+        <mxCell id="TcA92Lp06Bhrq94k1V0Q-18" value="返回信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" vertex="1" connectable="0" parent="TcA92Lp06Bhrq94k1V0Q-17">
           <mxGeometry x="-0.1039" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
