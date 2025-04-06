@@ -129,13 +129,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-37" value="查询数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" parent="-Fag-t0-wU-N1T2fDtg6-35" vertex="1" connectable="0">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-37" value="请求数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" parent="-Fag-t0-wU-N1T2fDtg6-35" vertex="1" connectable="0">
           <mxGeometry x="0.013" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TcA92Lp06Bhrq94k1V0Q-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-35">
-          <mxGeometry x="0.0909" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
