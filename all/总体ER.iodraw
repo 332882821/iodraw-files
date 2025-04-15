@@ -925,7 +925,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NpSoUprL53FwjsOo-HoD-677" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;种植&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-676">
+        <mxCell id="NpSoUprL53FwjsOo-HoD-677" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;接收&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-676">
           <mxGeometry x="-29.99783783783778" y="160" width="58.37837837837838" height="30" as="geometry" />
         </mxCell>
       </root>
