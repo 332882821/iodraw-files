@@ -1378,7 +1378,7 @@
         <mxCell id="NpSoUprL53FwjsOo-HoD-822" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-823">
           <mxGeometry x="360" y="280" width="80" height="45.45" as="geometry" />
         </mxCell>
-        <mxCell id="NpSoUprL53FwjsOo-HoD-831" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-823" source="NpSoUprL53FwjsOo-HoD-830" target="NpSoUprL53FwjsOo-HoD-793">
+        <mxCell id="NpSoUprL53FwjsOo-HoD-831" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-823" source="NpSoUprL53FwjsOo-HoD-830" target="NpSoUprL53FwjsOo-HoD-793">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-830" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;管理&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;rotation=-90;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-823">
@@ -1402,6 +1402,11 @@
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-824" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;管理&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="3060.002162162162" y="-50" width="58.37837837837838" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NpSoUprL53FwjsOo-HoD-832" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NpSoUprL53FwjsOo-HoD-830" target="NpSoUprL53FwjsOo-HoD-708">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3420" y="-40" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
