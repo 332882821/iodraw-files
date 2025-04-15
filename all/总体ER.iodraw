@@ -505,7 +505,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-576" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3450" y="750" width="390" height="295" as="geometry" />
+          <mxGeometry x="1895" y="680" width="390" height="295" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-555" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-576" target="NpSoUprL53FwjsOo-HoD-559">
           <mxGeometry relative="1" as="geometry">
