@@ -37,6 +37,12 @@
         <mxCell id="A_76XB7JRG83LFDcwgLu-61" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;副标题&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A_76XB7JRG83LFDcwgLu-68" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="A_76XB7JRG83LFDcwgLu-67" target="A_76XB7JRG83LFDcwgLu-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_76XB7JRG83LFDcwgLu-67" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;图片&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
