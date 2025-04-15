@@ -662,8 +662,11 @@
         <mxCell id="NpSoUprL53FwjsOo-HoD-602" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
           <mxGeometry x="263.07870967741934" y="209.99923076923073" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
-        <mxCell id="NpSoUprL53FwjsOo-HoD-604" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;收藏&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;rotation=65;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="690" width="60" height="30" as="geometry" />
+        <mxCell id="NpSoUprL53FwjsOo-HoD-605" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NpSoUprL53FwjsOo-HoD-604" target="NpSoUprL53FwjsOo-HoD-397">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpSoUprL53FwjsOo-HoD-604" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;收藏&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
