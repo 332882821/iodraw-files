@@ -606,7 +606,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-584" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;font-size: 16px;&quot;&gt;收藏编号&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry y="124.61538461538461" width="83.07677419354839" height="41.53846153846153" as="geometry" />
+          <mxGeometry x="6.92" y="159.23538461538462" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-585" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-586" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
@@ -642,7 +642,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-596" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;备注&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="55.38451612903226" y="200.76923076923075" width="83.07677419354839" height="41.53846153846153" as="geometry" />
+          <mxGeometry x="70.00451612903225" y="209.99923076923073" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-597" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-598" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
@@ -660,7 +660,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-602" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="290.76870967741934" y="200.76923076923075" width="83.07677419354839" height="41.53846153846153" as="geometry" />
+          <mxGeometry x="263.07870967741934" y="209.99923076923073" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
