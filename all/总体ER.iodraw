@@ -1617,11 +1617,19 @@
         <mxCell id="NpSoUprL53FwjsOo-HoD-894" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;分布范围&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-895">
           <mxGeometry x="209.99857142857144" y="319.9993617021276" width="78.85714285714286" height="48.51063829787234" as="geometry" />
         </mxCell>
-        <mxCell id="NpSoUprL53FwjsOo-HoD-896" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;发布&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;rotation=0;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-895">
+        <mxCell id="NpSoUprL53FwjsOo-HoD-896" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;录入&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;rotation=0;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-895">
           <mxGeometry x="13.13216216216233" y="26.6" width="58.37837837837838" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NpSoUprL53FwjsOo-HoD-897" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-895" source="NpSoUprL53FwjsOo-HoD-896" target="NpSoUprL53FwjsOo-HoD-867">
+        <mxCell id="NpSoUprL53FwjsOo-HoD-897" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-895" source="NpSoUprL53FwjsOo-HoD-896" target="NpSoUprL53FwjsOo-HoD-867">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpSoUprL53FwjsOo-HoD-898" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NpSoUprL53FwjsOo-HoD-896" target="NpSoUprL53FwjsOo-HoD-708">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpSoUprL53FwjsOo-HoD-899" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="NpSoUprL53FwjsOo-HoD-898">
+          <mxGeometry x="0.1903" y="5" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
