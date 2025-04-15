@@ -71,6 +71,9 @@
         <mxCell id="A_76XB7JRG83LFDcwgLu-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;用户账号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A_76XB7JRG83LFDcwgLu-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;土壤类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
