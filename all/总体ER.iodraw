@@ -817,6 +817,11 @@
             <mxPoint x="550" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NpSoUprL53FwjsOo-HoD-773" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="NpSoUprL53FwjsOo-HoD-730">
+          <mxGeometry x="-0.0544" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-708" value="指导员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-724">
           <mxGeometry x="150" y="112.5" width="90" height="45" as="geometry" />
         </mxCell>
@@ -895,7 +900,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-732" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;发布&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;rotation=-15;" vertex="1" parent="1">
-          <mxGeometry x="3330.002162162162" y="720" width="58.37837837837838" height="30" as="geometry" />
+          <mxGeometry x="3450.002162162162" y="680" width="58.37837837837838" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-764" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2610" y="-370" width="460" height="340" as="geometry" />
@@ -1192,6 +1197,9 @@
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-622" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="NpSoUprL53FwjsOo-HoD-623" target="NpSoUprL53FwjsOo-HoD-610">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpSoUprL53FwjsOo-HoD-772" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;管理&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3120.002162162162" y="190" width="58.37837837837838" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
