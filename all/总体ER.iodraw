@@ -16,6 +16,11 @@
             <mxPoint x="180" y="150" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NpSoUprL53FwjsOo-HoD-680" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-413" source="NpSoUprL53FwjsOo-HoD-397">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-397" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-413">
           <mxGeometry x="135.81908439051298" y="105.4054054054054" width="85.78047435190292" height="42.16216216216216" as="geometry" />
         </mxCell>
