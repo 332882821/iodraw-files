@@ -7,7 +7,7 @@
         <mxCell id="x3-HgDLQeDBz-ixpbND3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="x3-HgDLQeDBz-ixpbND3-1" target="x3-HgDLQeDBz-ixpbND3-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x3-HgDLQeDBz-ixpbND3-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="x3-HgDLQeDBz-ixpbND3-1" value="指导员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3-HgDLQeDBz-ixpbND3-12" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="x3-HgDLQeDBz-ixpbND3-2" target="x3-HgDLQeDBz-ixpbND3-1" edge="1">
