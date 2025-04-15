@@ -852,7 +852,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-676" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2700" y="-60" width="540" height="315" as="geometry" />
+          <mxGeometry x="3110" y="380" width="540" height="315" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-660" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;消息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-676">
           <mxGeometry x="209.03225806451616" y="172.19999999999996" width="104.51612903225808" height="50.39999999999999" as="geometry" />
