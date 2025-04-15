@@ -1031,7 +1031,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-717" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;专家电话&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-724">
-          <mxGeometry x="112.5" y="225" width="90" height="45" as="geometry" />
+          <mxGeometry x="70" y="220" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-718" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-724" source="NpSoUprL53FwjsOo-HoD-719" target="NpSoUprL53FwjsOo-HoD-708">
           <mxGeometry relative="1" as="geometry" />
