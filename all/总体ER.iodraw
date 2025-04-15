@@ -1130,13 +1130,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-677" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;接收&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3080.002162162162" y="540" width="58.37837837837838" height="30" as="geometry" />
+          <mxGeometry x="2740.002162162162" y="430" width="58.37837837837838" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-623" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;作物种类&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3154.7262637362637" y="660.0042105263158" width="75.2663736263736" height="44.21052631578948" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-769" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2960" y="240" width="394.52" height="270.4" as="geometry" />
+          <mxGeometry x="2870" y="240" width="394.52" height="270.4" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-660" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;消息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-769">
           <mxGeometry x="139.0322580645161" y="142.19999999999993" width="104.51612903225808" height="50.39999999999999" as="geometry" />
