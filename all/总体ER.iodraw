@@ -597,70 +597,70 @@
           <mxGeometry x="2338" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-603" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3180" y="800" width="492.82" height="310" as="geometry" />
+          <mxGeometry x="2330" y="720" width="429.23" height="270" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-582" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;收藏&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="190.7690322580645" y="143.07692307692307" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry x="166.15354838709678" y="124.61538461538461" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-583" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-584" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-584" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;font-size: 16px;&quot;&gt;收藏编号&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry y="143.07692307692307" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry y="124.61538461538461" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-585" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-586" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-586" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="302.0509677419355" y="27.820512820512818" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry x="263.07645161290327" y="24.23076923076923" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-587" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-588" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-588" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户账号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="190.7690322580645" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry x="166.15354838709678" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-589" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-590" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-590" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="87.4358064516129" y="27.820512820512818" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry x="76.15370967741936" y="24.23076923076923" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-591" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-592" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-592" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="397.43548387096774" y="143.07692307692307" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry x="346.15322580645164" y="124.61538461538461" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-593" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-594" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-594" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;图片&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="190.7690322580645" y="262.30769230769226" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry x="166.15354838709678" y="228.46153846153842" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-595" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-596" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-596" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;备注&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="63.589677419354835" y="230.5128205128205" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry x="55.38451612903226" y="200.76923076923075" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-597" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-598" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-598" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;表名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="389.48677419354834" y="71.53846153846153" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry x="339.23016129032254" y="62.30769230769231" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-599" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-600" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-600" value="推荐类型" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="7.948709677419354" y="75.51282051282051" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry x="6.923064516129032" y="65.76923076923077" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-601" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="NpSoUprL53FwjsOo-HoD-603" source="NpSoUprL53FwjsOo-HoD-602" target="NpSoUprL53FwjsOo-HoD-582">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpSoUprL53FwjsOo-HoD-602" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="NpSoUprL53FwjsOo-HoD-603">
-          <mxGeometry x="333.8458064516129" y="230.5128205128205" width="95.38451612903225" height="47.692307692307686" as="geometry" />
+          <mxGeometry x="290.76870967741934" y="200.76923076923075" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
