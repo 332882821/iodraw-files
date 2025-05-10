@@ -73,6 +73,12 @@
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-28" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;flipV=0;direction=south;flipH=1;labelBackgroundColor=none;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="954" y="250" width="100" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="r4G_xtVmuYtl3c2tFIKF-53" value="农技交流" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="220" width="100" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="r4G_xtVmuYtl3c2tFIKF-54" value="农技交流" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="2406" y="269" width="100" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
