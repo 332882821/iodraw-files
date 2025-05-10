@@ -1130,7 +1130,7 @@
         <mxCell id="UNURLWZO23DxIrxSIrnp-47" value="是否置顶" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" vertex="1" parent="UNURLWZO23DxIrxSIrnp-148">
           <mxGeometry x="1480.0027054878144" y="940" width="525.258999441468" height="250.49718574108817" as="geometry" />
         </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-173" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uQs1KfSV7rxMa4fCCKPU-220">
+        <mxCell id="UNURLWZO23DxIrxSIrnp-173" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uQs1KfSV7rxMa4fCCKPU-220" target="UNURLWZO23DxIrxSIrnp-174">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-7620" y="1610" as="targetPoint" />
           </mxGeometry>
@@ -1315,8 +1315,8 @@
         <mxCell id="UNURLWZO23DxIrxSIrnp-172" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uQs1KfSV7rxMa4fCCKPU-5" target="UNURLWZO23DxIrxSIrnp-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-174" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;fillColor=none;rotation=-95;" vertex="1" parent="1">
-          <mxGeometry x="-7790" y="1690" width="380" height="200" as="geometry" />
+        <mxCell id="UNURLWZO23DxIrxSIrnp-174" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;fillColor=none;rotation=-75;" vertex="1" parent="1">
+          <mxGeometry x="-7870" y="1690" width="380" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
