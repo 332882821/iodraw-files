@@ -935,9 +935,10 @@
             <mxPoint x="-790" y="2520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29QrUdGiGYdoB8_j2vHh-102" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="29QrUdGiGYdoB8_j2vHh-35" target="29QrUdGiGYdoB8_j2vHh-103">
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-102" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="29QrUdGiGYdoB8_j2vHh-103">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1460" y="3070" as="targetPoint" />
+            <mxPoint x="-1140" y="3010" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-35" value="农业资讯分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -1469,6 +1470,9 @@
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-103" value="分类" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-2140" y="2893.72" width="520" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-105" value="分类" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-2130" y="2903.72" width="520" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
