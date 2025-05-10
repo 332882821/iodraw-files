@@ -134,6 +134,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cGmx7l6Y7iFc3O-CnLNS-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-35">
+          <mxGeometry x="0.0779" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-41" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="785.5" y="498" as="sourcePoint" />
@@ -224,7 +229,7 @@
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-79" value="返回任务信息&lt;br&gt;数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" parent="-Fag-t0-wU-N1T2fDtg6-78" vertex="1" connectable="0">
           <mxGeometry x="-0.1039" y="1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="5" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-80" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;fontSize=16;container=0;strokeWidth=2;" parent="1" vertex="1">
