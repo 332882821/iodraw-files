@@ -1382,7 +1382,7 @@
           <mxGeometry x="-230" y="773.6" width="200" height="430" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-57" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="-1280.08" y="1006.69" width="550" height="249.62" as="geometry" />
+          <mxGeometry x="-1280.08" y="1006.69" width="500" height="200" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-60" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.536;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uQs1KfSV7rxMa4fCCKPU-220" target="29QrUdGiGYdoB8_j2vHh-57">
           <mxGeometry relative="1" as="geometry" />
