@@ -574,7 +574,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UhvKoeVGNmMKflQDejtE-173" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;收藏&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;rotation=75;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="2450" y="664.21" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UhvKoeVGNmMKflQDejtE-174" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2770" y="620" width="570.77" height="460" as="geometry" />
