@@ -341,7 +341,7 @@
           <mxGeometry x="4099.99527904748" y="1440.000088691796" width="519.6635639252544" height="249.99113082039918" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-21" value="" style="group;fontSize=100;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-14290.004224753196" y="-1710.0000000000002" width="3861.7942247531964" height="2179.719817073171" as="geometry" />
+          <mxGeometry x="7169.9957752468035" y="-505.0000000000002" width="3861.7942247531964" height="2179.719817073171" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-372" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=100;fontColor=default;strokeWidth=10;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=none;startArrow=none;startFill=0;" parent="29QrUdGiGYdoB8_j2vHh-21" target="uQs1KfSV7rxMa4fCCKPU-376" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1622,8 +1622,8 @@
         <mxCell id="29QrUdGiGYdoB8_j2vHh-148" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="29QrUdGiGYdoB8_j2vHh-147" target="29QrUdGiGYdoB8_j2vHh-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="29QrUdGiGYdoB8_j2vHh-147" value="记录" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-4910" y="-810" width="520" height="200" as="geometry" />
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-147" value="收藏" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-4630" y="-950" width="520" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
