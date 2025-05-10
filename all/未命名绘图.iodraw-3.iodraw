@@ -17,22 +17,22 @@
           <mxGeometry x="478" y="11" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-5" value="作物种植管理" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="1893" y="253" width="100" height="240" as="geometry" />
+          <mxGeometry x="2010" y="250" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-6" value="病虫害诊断请求" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="2021" y="251" width="100" height="240" as="geometry" />
+          <mxGeometry x="2160" y="242" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-7" value="田间记录管理" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="2143" y="249" width="100" height="240" as="geometry" />
+          <mxGeometry x="2282" y="240" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-8" value="意见反馈" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="2264" y="249" width="100" height="240" as="geometry" />
+          <mxGeometry x="2403" y="240" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-9" value="农技交流" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="2386" y="249" width="100" height="240" as="geometry" />
+          <mxGeometry x="2525" y="240" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-10" value="农业资讯浏览" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="2506" y="249" width="100" height="240" as="geometry" />
+          <mxGeometry x="2645" y="240" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-14" value="病虫害方案管理" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;flipH=0;labelBackgroundColor=none;fontSize=30;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="1140" y="250" width="100" height="240" as="geometry" />
@@ -76,8 +76,8 @@
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-53" value="农技交流" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="1654" y="220" width="100" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="r4G_xtVmuYtl3c2tFIKF-54" value="农技交流" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="2406" y="269" width="100" height="240" as="geometry" />
+        <mxCell id="r4G_xtVmuYtl3c2tFIKF-55" value="农业资讯浏览" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="240" width="100" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
