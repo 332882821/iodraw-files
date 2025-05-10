@@ -293,7 +293,7 @@
           <mxGeometry x="-5839.999858450469" y="-1150.00008569545" width="542.3533420390567" height="254.2584047462096" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-20" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;任务信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2639.99527904748" y="430.000088691796" width="519.6635639252544" height="249.99113082039918" as="geometry" />
+          <mxGeometry x="4289.99527904748" y="1490.000088691796" width="519.6635639252544" height="249.99113082039918" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-14290.004224753196" y="-1710.0000000000002" width="3861.7942247531964" height="2179.719817073171" as="geometry" />
@@ -994,7 +994,7 @@
           <mxGeometry x="620.6164955891509" y="1743.59493902439" width="563.2838085335258" height="271.73378048780484" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-38" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;作物指南&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1620.0035251208942" y="1690.9974839537858" width="475.8771688760016" height="219.00192554557137" as="geometry" />
+          <mxGeometry x="3390.003525120894" y="-630.0025160462142" width="475.8771688760016" height="219.00192554557137" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-39" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-21399.997403960035" y="3880.0007317073187" width="3700.4123147741175" height="2874.3292682926813" as="geometry" />
