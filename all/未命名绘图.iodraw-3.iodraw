@@ -15,8 +15,11 @@
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-2" value="用户" style="whiteSpace=wrap;strokeWidth=3;labelBackgroundColor=none;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="2271" y="11" width="200" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="r4G_xtVmuYtl3c2tFIKF-113" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="r4G_xtVmuYtl3c2tFIKF-3" target="r4G_xtVmuYtl3c2tFIKF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-3" value="指导员" style="whiteSpace=wrap;strokeWidth=3;labelBackgroundColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1557" width="200" height="100" as="geometry" />
+          <mxGeometry x="1440" y="-3" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-4" value="管理员" style="whiteSpace=wrap;strokeWidth=3;labelBackgroundColor=none;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="586" y="-3" width="200" height="100" as="geometry" />
