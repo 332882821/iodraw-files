@@ -1353,7 +1353,7 @@
           <mxGeometry x="-780.0017400440786" y="1539.9996895787153" width="551.7937384864762" height="263.1485587583149" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-50" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=-5;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="880" width="200" height="260" as="geometry" />
+          <mxGeometry x="-578.72" y="820" width="200" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
