@@ -1557,7 +1557,7 @@
             <mxPoint x="-1240.0048424842516" y="4834.379675967598" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29QrUdGiGYdoB8_j2vHh-126" value="分类" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=0;" vertex="1" parent="1">
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-126" value="接收" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-1770" y="4700" width="520" height="200" as="geometry" />
         </mxCell>
       </root>
