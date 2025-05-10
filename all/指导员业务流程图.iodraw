@@ -321,7 +321,7 @@
         </mxCell>
         <mxCell id="QDHXhQLSgiY_y7tH-igC-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" target="QDHXhQLSgiY_y7tH-igC-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="24895.85" y="11000" as="sourcePoint" />
+            <mxPoint x="24890" y="11000" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QDHXhQLSgiY_y7tH-igC-16" value="农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
