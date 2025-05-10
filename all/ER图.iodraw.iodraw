@@ -755,7 +755,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-30" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;反馈意见&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1670.1638553562768" y="2130.0023595505627" width="510.16626430868973" height="239.86434639627294" as="geometry" />
+          <mxGeometry x="-1640.0038553562767" y="2130.0023595505627" width="510.16626430868973" height="239.86434639627294" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-31" value="" style="group;fontSize=100;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-17590.002528614597" y="5489.999756097561" width="2465.803610825333" height="1489.0278158399574" as="geometry" />
@@ -928,7 +928,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-35" value="农业资讯分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2112.4008623823815" y="2570" width="690.1481964448466" height="263.1512239074269" as="geometry" />
+          <mxGeometry x="-1120.0008623823815" y="2530" width="690.1481964448466" height="263.1512239074269" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-36" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;病虫害方案&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-330.0012122612152" y="-1989.995" width="563.2838085335258" height="271.73378048780484" as="geometry" />
