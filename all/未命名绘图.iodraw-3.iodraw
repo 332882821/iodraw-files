@@ -31,17 +31,8 @@
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-9" value="农技交流" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="2386" y="249" width="100" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="r4G_xtVmuYtl3c2tFIKF-10" value="数据记录与追踪" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="r4G_xtVmuYtl3c2tFIKF-10" value="农业资讯浏览" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="2506" y="249" width="100" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="r4G_xtVmuYtl3c2tFIKF-11" value="意见反馈" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="2628" y="249" width="100" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="r4G_xtVmuYtl3c2tFIKF-12" value="农技交流论坛" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;flipH=1;fontSize=30;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="2870" y="249" width="100" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="r4G_xtVmuYtl3c2tFIKF-13" value="通知公告查阅" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="2749" y="249" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-14" value="病虫害方案管理" style="whiteSpace=wrap;strokeWidth=2;flipV=1;direction=south;flipH=0;labelBackgroundColor=none;fontSize=30;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="1140" y="250" width="100" height="240" as="geometry" />
