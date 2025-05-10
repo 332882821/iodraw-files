@@ -149,7 +149,7 @@
           <mxGeometry x="-16240.002292346966" y="-524.2549472643368" width="537.88" height="252.5" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-4" value="作物种植" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2179.9928571428563" y="809.9955452685925" width="464.4942857142859" height="221.9898879957398" as="geometry" />
+          <mxGeometry x="-2190.0028571428566" y="889.9955452685925" width="464.4942857142859" height="221.9898879957398" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-5" value="" style="group;fontSize=100;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-14589.997465506956" y="3879.998313514299" width="2216.9574655069573" height="1674.8273083811337" as="geometry" />
@@ -1415,7 +1415,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-77" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=-135;" vertex="1" parent="1">
-          <mxGeometry x="-1640" y="1270" width="500" height="200" as="geometry" />
+          <mxGeometry x="-1657.07" y="1262.93" width="520" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
