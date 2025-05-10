@@ -307,7 +307,7 @@
         <mxCell id="QDHXhQLSgiY_y7tH-igC-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;rotation=-180;" vertex="1" parent="QDHXhQLSgiY_y7tH-igC-17">
           <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
         </mxCell>
-        <mxCell id="QDHXhQLSgiY_y7tH-igC-20" value="更新农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="QDHXhQLSgiY_y7tH-igC-20" value="查看病虫害诊断" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="24804" y="11146.52" width="65.7" height="184.48" as="geometry" />
         </mxCell>
         <mxCell id="QDHXhQLSgiY_y7tH-igC-21" value="查看农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
