@@ -248,7 +248,7 @@
         <mxCell id="drljghU39gG9ItoYXh6T-215" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;rotation=-180;" parent="drljghU39gG9ItoYXh6T-213" vertex="1">
           <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-216" value="更新农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="QDHXhQLSgiY_y7tH-igC-1" vertex="1">
+        <mxCell id="drljghU39gG9ItoYXh6T-216" value="查看农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="QDHXhQLSgiY_y7tH-igC-1" vertex="1">
           <mxGeometry y="146.52000000000044" width="65.7" height="184.48" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-217" value="查看农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="QDHXhQLSgiY_y7tH-igC-1" vertex="1">
