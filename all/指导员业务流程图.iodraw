@@ -280,7 +280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QDHXhQLSgiY_y7tH-igC-3" value="作物种植" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="24595.85" y="11040" width="160" height="39.5" as="geometry" />
+          <mxGeometry x="24595.85" y="11040" width="144.15" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="QDHXhQLSgiY_y7tH-igC-8" value="查看作物种植" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="24643" y="11148.52" width="65.7" height="183.48" as="geometry" />
