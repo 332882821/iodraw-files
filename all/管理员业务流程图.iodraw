@@ -256,7 +256,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-249" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;rotation=90;container=0;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="23825.55" y="11459.09" width="30.05" height="65.55" as="geometry" />
+          <mxGeometry x="23823.87" y="11461.41" width="30.05" height="60.91" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-250" value="查看农技交流信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="23800.238842203547" y="11511.675493844185" width="40" height="90" as="geometry" />
