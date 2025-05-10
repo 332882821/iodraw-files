@@ -1422,8 +1422,11 @@
         <mxCell id="29QrUdGiGYdoB8_j2vHh-78" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="29QrUdGiGYdoB8_j2vHh-77" target="uQs1KfSV7rxMa4fCCKPU-220">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="29QrUdGiGYdoB8_j2vHh-77" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=-135;" vertex="1" parent="1">
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-77" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="-1510" y="980" width="520" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-81" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=35;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="1440" width="520" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
