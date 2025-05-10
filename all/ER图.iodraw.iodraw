@@ -287,10 +287,10 @@
           <mxGeometry y="279.9941463414634" width="551.7937384864762" height="263.1485587583149" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-18" value="指导员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2067.0020000000013" y="3799.9971478671996" width="569.0327999999996" height="271.37225410478925" as="geometry" />
+          <mxGeometry x="-3280.0020000000013" y="4389.9971478672" width="569.0327999999996" height="271.37225410478925" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-19" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1159.9998584504692" y="3749.9999143045497" width="542.3533420390567" height="254.2584047462096" as="geometry" />
+          <mxGeometry x="-1419.9998584504692" y="4289.99991430455" width="542.3533420390567" height="254.2584047462096" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-20" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;任务信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2050.54472095252" y="4480.000088691796" width="519.6635639252544" height="249.99113082039918" as="geometry" />
@@ -680,7 +680,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-28" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;病虫害诊断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="3610.0000000000005" width="514.65" height="223.99" as="geometry" />
+          <mxGeometry x="60" y="4390" width="514.65" height="223.99" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-29" value="" style="group;fontSize=100;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-16705.110655737706" y="3905.513023255814" width="1995.1109022370244" height="1373.9904772708858" as="geometry" />
@@ -1017,7 +1017,7 @@
           <mxGeometry x="620.6164955891509" y="1743.59493902439" width="563.2838085335258" height="271.73378048780484" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-38" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;作物指南&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2059.996474879106" y="4789.997483953786" width="475.8771688760016" height="219.00192554557137" as="geometry" />
+          <mxGeometry x="-1715.9964748791058" y="3613.1474839537864" width="475.8771688760016" height="219.00192554557137" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-39" value="" style="group;fontSize=100;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-21399.997403960035" y="3880.0007317073187" width="3700.4123147741175" height="2874.3292682926813" as="geometry" />
