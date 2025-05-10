@@ -19,7 +19,7 @@
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-101" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="7ETe1MAFlV7CgOKuqyC0-1" source="uQs1KfSV7rxMa4fCCKPU-220">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1969.9980869722517" y="-1009.9987583148572" as="targetPoint" />
+            <mxPoint x="1819.9980869722517" y="-819.9987583148572" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-220" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-1" vertex="1">
@@ -1387,8 +1387,8 @@
         <mxCell id="UNURLWZO23DxIrxSIrnp-100" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uQs1KfSV7rxMa4fCCKPU-415" target="UNURLWZO23DxIrxSIrnp-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-102" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="4320" y="-2380" width="530" height="220" as="geometry" />
+        <mxCell id="UNURLWZO23DxIrxSIrnp-102" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="4580" y="-2300" width="530" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
