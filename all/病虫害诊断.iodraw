@@ -32,7 +32,7 @@
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EWBYIpWJwCG6Uv1SdfLI-9" target="EWBYIpWJwCG6Uv1SdfLI-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWBYIpWJwCG6Uv1SdfLI-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;方案内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="EWBYIpWJwCG6Uv1SdfLI-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;危害程度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="EWBYIpWJwCG6Uv1SdfLI-11" target="EWBYIpWJwCG6Uv1SdfLI-2">
@@ -82,7 +82,7 @@
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EWBYIpWJwCG6Uv1SdfLI-25" target="EWBYIpWJwCG6Uv1SdfLI-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWBYIpWJwCG6Uv1SdfLI-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;方案附件&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="EWBYIpWJwCG6Uv1SdfLI-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;虫害详情&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
