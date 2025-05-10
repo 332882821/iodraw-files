@@ -314,7 +314,7 @@
             <mxPoint x="24725.85" y="11000" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oTs-4-UWU5TIKV8X0CEw-29" value="作物种植" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-29" value="种植日历" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="24645.85" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="oTs-4-UWU5TIKV8X0CEw-34" value="查看种植日历" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
