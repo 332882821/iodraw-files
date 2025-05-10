@@ -1157,7 +1157,7 @@
           <mxGeometry x="2779.9987846665244" y="270.00026957638056" width="475.8771688760016" height="266.6110397946086" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-40" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;农技交流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2430.0022351702364" y="2120.002682926829" width="455.22528199852286" height="235.97560975609764" as="geometry" />
+          <mxGeometry x="-2980.0022351702364" y="2102.022682926829" width="455.22528199852286" height="235.97560975609764" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-41" value="" style="group;fontSize=100;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-21040" y="1086.638780487806" width="2235.223610825333" height="1525.9763414634156" as="geometry" />
@@ -1356,7 +1356,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-47" value="农技交流分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2620.0008623823815" y="886.64" width="690.1481964448466" height="263.3640798075454" as="geometry" />
+          <mxGeometry x="-3120.1508623823815" y="910" width="690.1481964448466" height="263.3640798075454" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-48" value="" style="group;fontSize=100;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-21830" y="2807.44" width="1371.79" height="729.9999999999998" as="geometry" />
@@ -1437,10 +1437,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-92" value="分类" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=75;" vertex="1" parent="1">
-          <mxGeometry x="-2544.65" y="1540" width="520" height="200" as="geometry" />
+          <mxGeometry x="-3035.08" y="1540" width="520" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="29QrUdGiGYdoB8_j2vHh-96" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=-60;" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="1640" width="520" height="200" as="geometry" />
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-96" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="1630" width="520" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
