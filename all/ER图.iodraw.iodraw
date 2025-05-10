@@ -1602,8 +1602,8 @@
         <mxCell id="29QrUdGiGYdoB8_j2vHh-138" value="种植" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-4470" y="520" width="520" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="29QrUdGiGYdoB8_j2vHh-141" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="-3660" y="-710" width="520" height="200" as="geometry" />
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-141" value="记录" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="-3690" y="-390" width="520" height="200" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-144" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="29QrUdGiGYdoB8_j2vHh-143" target="29QrUdGiGYdoB8_j2vHh-20">
           <mxGeometry relative="1" as="geometry" />
