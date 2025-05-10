@@ -105,13 +105,8 @@
         <mxCell id="xKOgp8LKYkLA_o67TD1X-24" value="农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="24380" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="xKOgp8LKYkLA_o67TD1X-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="xKOgp8LKYkLA_o67TD1X-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="24241" y="11000" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-26" value="作物指南" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="24161" y="11040" width="160" height="39.5" as="geometry" />
+          <mxGeometry x="24095.85" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-27" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -166,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-42" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="24187.15" y="11080" width="110" height="56.52" as="geometry" />
+          <mxGeometry x="24122" y="11080" width="110" height="56.52" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;fontSize=20;" parent="xKOgp8LKYkLA_o67TD1X-42" source="xKOgp8LKYkLA_o67TD1X-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -177,10 +172,10 @@
           <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-45" value="发布评论" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="24155.15" y="11147.52" width="65.7" height="184.48" as="geometry" />
+          <mxGeometry x="24090" y="11147.52" width="65.7" height="184.48" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-46" value="查看作物指南" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="24261.15" y="11147.52" width="65.7" height="183.48" as="geometry" />
+          <mxGeometry x="24196" y="11147.52" width="65.7" height="183.48" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-47" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="xKOgp8LKYkLA_o67TD1X-44" target="xKOgp8LKYkLA_o67TD1X-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -229,7 +224,7 @@
           <mxGeometry x="23933.3" y="11392" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-61" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="24180.350000000002" y="11332" width="121.3" height="60" as="geometry" />
+          <mxGeometry x="24115.2" y="11332" width="121.3" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=20;" parent="xKOgp8LKYkLA_o67TD1X-61" source="xKOgp8LKYkLA_o67TD1X-63" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -240,7 +235,7 @@
           <mxGeometry width="121.30000000000153" height="21.78" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-64" value="作物指南表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="24181.65" y="11392" width="120" height="60" as="geometry" />
+          <mxGeometry x="24116.5" y="11392" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-65" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="24400.5" y="11332" width="121.3" height="60" as="geometry" />
