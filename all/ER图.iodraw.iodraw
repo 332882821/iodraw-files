@@ -287,7 +287,7 @@
           <mxGeometry y="279.9941463414634" width="551.7937384864762" height="263.1485587583149" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-18" value="指导员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3280.0020000000013" y="4389.9971478672" width="569.0327999999996" height="271.37225410478925" as="geometry" />
+          <mxGeometry x="1669.9979999999987" y="2259.9971478671996" width="569.0327999999996" height="271.37225410478925" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-19" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1419.9998584504692" y="4289.99991430455" width="542.3533420390567" height="254.2584047462096" as="geometry" />
