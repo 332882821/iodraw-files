@@ -10,7 +10,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oTs-4-UWU5TIKV8X0CEw-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xKOgp8LKYkLA_o67TD1X-3">
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKOgp8LKYkLA_o67TD1X-3" target="xKOgp8LKYkLA_o67TD1X-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="23810" y="10918.930523476683" as="targetPoint" />
           </mxGeometry>
