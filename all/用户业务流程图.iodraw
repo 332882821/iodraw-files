@@ -251,7 +251,7 @@
             <mxPoint x="24545.85" y="11000" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oTs-4-UWU5TIKV8X0CEw-2" value="农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-2" value="作物种植" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="24465.85" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="oTs-4-UWU5TIKV8X0CEw-3" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="1">
