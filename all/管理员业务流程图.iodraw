@@ -327,7 +327,7 @@
           <mxGeometry x="24109.77619047619" y="11514.675493844185" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-278" value="更新作物种类信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="24165.406792717087" y="11512.389239202521" width="40" height="90" as="geometry" />
+          <mxGeometry x="24158.406792717087" y="11515.389239202521" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-279" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="24133.989999999998" y="11603.83" width="44.46" height="25.45" as="geometry" />
