@@ -1619,6 +1619,9 @@
         <mxCell id="29QrUdGiGYdoB8_j2vHh-143" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="1290" width="520" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-147" value="记录" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-3900" y="-900" width="520" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
