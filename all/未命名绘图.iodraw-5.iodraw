@@ -503,22 +503,10 @@
         <mxCell id="UhvKoeVGNmMKflQDejtE-150" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;font-size: 16px;&quot;&gt;收藏编号&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="UhvKoeVGNmMKflQDejtE-147">
           <mxGeometry x="6.92" y="159.23538461538462" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
-        <mxCell id="UhvKoeVGNmMKflQDejtE-151" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="UhvKoeVGNmMKflQDejtE-147" target="UhvKoeVGNmMKflQDejtE-148">
+        <mxCell id="UhvKoeVGNmMKflQDejtE-155" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="UhvKoeVGNmMKflQDejtE-147" target="UhvKoeVGNmMKflQDejtE-148">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="283.04557096385133" y="62.749709915836775" as="sourcePoint" />
+            <mxPoint x="82.21886260589417" y="75.13252836433821" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UhvKoeVGNmMKflQDejtE-153" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="UhvKoeVGNmMKflQDejtE-147" source="UhvKoeVGNmMKflQDejtE-154" target="UhvKoeVGNmMKflQDejtE-148">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UhvKoeVGNmMKflQDejtE-154" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户账号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="UhvKoeVGNmMKflQDejtE-147">
-          <mxGeometry x="76.15354838709678" width="83.07677419354839" height="41.53846153846153" as="geometry" />
-        </mxCell>
-        <mxCell id="UhvKoeVGNmMKflQDejtE-155" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="UhvKoeVGNmMKflQDejtE-147" source="UhvKoeVGNmMKflQDejtE-156" target="UhvKoeVGNmMKflQDejtE-148">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UhvKoeVGNmMKflQDejtE-156" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="UhvKoeVGNmMKflQDejtE-147">
-          <mxGeometry x="8.003709677419351" y="41.54076923076923" width="83.07677419354839" height="41.53846153846153" as="geometry" />
         </mxCell>
         <mxCell id="UhvKoeVGNmMKflQDejtE-157" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="UhvKoeVGNmMKflQDejtE-147" source="UhvKoeVGNmMKflQDejtE-158" target="UhvKoeVGNmMKflQDejtE-148">
           <mxGeometry relative="1" as="geometry" />
