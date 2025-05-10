@@ -13,9 +13,9 @@
           <mxGeometry x="1309" y="-250" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-2" value="用户" style="whiteSpace=wrap;strokeWidth=3;labelBackgroundColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="2323" y="12" width="200" height="100" as="geometry" />
+          <mxGeometry x="2340" y="11" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r4G_xtVmuYtl3c2tFIKF-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="r4G_xtVmuYtl3c2tFIKF-3">
+        <mxCell id="r4G_xtVmuYtl3c2tFIKF-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="r4G_xtVmuYtl3c2tFIKF-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1489.0000000000005" y="-70" as="targetPoint" />
           </mxGeometry>
