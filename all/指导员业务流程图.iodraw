@@ -384,11 +384,11 @@
             <mxPoint x="25023.85" y="11392" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QDHXhQLSgiY_y7tH-igC-60" value="作物种植表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="24963.85" y="11392" width="120" height="60" as="geometry" />
+        <mxCell id="QDHXhQLSgiY_y7tH-igC-60" value="病虫害方案表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="24963.85" y="11392" width="126.15" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QDHXhQLSgiY_y7tH-igC-61" value="病虫害诊断表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="24780" y="11392" width="120" height="60" as="geometry" />
+          <mxGeometry x="24770" y="11392" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
