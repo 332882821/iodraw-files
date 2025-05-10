@@ -451,6 +451,51 @@
         <mxCell id="oTs-4-UWU5TIKV8X0CEw-103" value="田间记录表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="25217.649999999998" y="11392" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-104" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" target="oTs-4-UWU5TIKV8X0CEw-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="24925.85" y="11020" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-105" value="病虫害诊断" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="24845.85" y="11060" width="160" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-106" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="24872" y="11099" width="110" height="56.52" as="geometry" />
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="oTs-4-UWU5TIKV8X0CEw-106" source="oTs-4-UWU5TIKV8X0CEw-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-108" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;rotation=-180;" vertex="1" parent="oTs-4-UWU5TIKV8X0CEw-106">
+          <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-109" value="查看病虫害诊断" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="24840" y="11166.52" width="65.7" height="184.48" as="geometry" />
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-110" value="更新病虫害诊断" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="24946" y="11166.52" width="65.7" height="183.48" as="geometry" />
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-111" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="oTs-4-UWU5TIKV8X0CEw-108" target="oTs-4-UWU5TIKV8X0CEw-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-112" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="oTs-4-UWU5TIKV8X0CEw-108" target="oTs-4-UWU5TIKV8X0CEw-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-113" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="24866.35" y="11352" width="121.3" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=20;" edge="1" parent="oTs-4-UWU5TIKV8X0CEw-113" source="oTs-4-UWU5TIKV8X0CEw-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60.821731949037805" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-115" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;" vertex="1" parent="oTs-4-UWU5TIKV8X0CEw-113">
+          <mxGeometry width="121.30000000000153" height="21.78" as="geometry" />
+        </mxCell>
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-116" value="作物种植表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="24867.649999999998" y="11412" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
