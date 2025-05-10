@@ -23,9 +23,10 @@
         <mxCell id="XoQQrn-An_90USnWsuRB-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="XoQQrn-An_90USnWsuRB-7" target="XoQQrn-An_90USnWsuRB-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XoQQrn-An_90USnWsuRB-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" target="XoQQrn-An_90USnWsuRB-13" edge="1">
+        <mxCell id="XoQQrn-An_90USnWsuRB-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="550" as="sourcePoint" />
+            <mxPoint x="249.99999999999795" y="883" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XoQQrn-An_90USnWsuRB-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="XoQQrn-An_90USnWsuRB-7" target="XoQQrn-An_90USnWsuRB-15" edge="1">
@@ -48,9 +49,6 @@
         </mxCell>
         <mxCell id="XoQQrn-An_90USnWsuRB-12" value="&lt;ul style=&quot;border: 0px solid rgba(255, 255, 255, 0.1); box-sizing: border-box; margin: 0px 0px 16px; padding: 0px; list-style: none; color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(33, 33, 33);&quot; data-end=&quot;344&quot; data-start=&quot;256&quot;&gt;&lt;li style=&quot;border: 0px solid rgba(255, 255, 255, 0.1); box-sizing: border-box; margin: 0.5em 0px; padding: 0px 0px 0px 0.375em;&quot; class=&quot;&quot; data-end=&quot;318&quot; data-start=&quot;305&quot;&gt;&lt;p style=&quot;border: 0px solid rgba(255, 255, 255, 0.1); box-sizing: border-box; margin: 0px; padding: 0px;&quot; class=&quot;&quot; data-end=&quot;318&quot; data-start=&quot;307&quot;&gt;发布病虫害防治方案&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=20;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="727" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XoQQrn-An_90USnWsuRB-13" value="分配政种植任务" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=20;flipH=1;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="843" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XoQQrn-An_90USnWsuRB-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-300" y="210" width="460" height="820" as="geometry" />
