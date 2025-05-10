@@ -112,14 +112,6 @@
         <mxCell id="drljghU39gG9ItoYXh6T-179" value="农技交流" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="23943" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-185" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="drljghU39gG9ItoYXh6T-180" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="24460" y="11000" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-180" value="农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="24380" y="11040" width="160" height="39.5" as="geometry" />
-        </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-184" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="drljghU39gG9ItoYXh6T-181" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="24241" y="11000" as="sourcePoint" />
@@ -203,29 +195,6 @@
         <mxCell id="drljghU39gG9ItoYXh6T-212" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="drljghU39gG9ItoYXh6T-208" target="drljghU39gG9ItoYXh6T-210" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-213" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="24406.15" y="11079" width="110" height="56.52" as="geometry" />
-        </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;fontSize=20;" parent="drljghU39gG9ItoYXh6T-213" source="drljghU39gG9ItoYXh6T-215" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-215" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;rotation=-180;" parent="drljghU39gG9ItoYXh6T-213" vertex="1">
-          <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
-        </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-216" value="更新农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="24374.15" y="11146.52" width="65.7" height="184.48" as="geometry" />
-        </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-217" value="查看农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="24480.15" y="11146.52" width="65.7" height="183.48" as="geometry" />
-        </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-218" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="drljghU39gG9ItoYXh6T-215" target="drljghU39gG9ItoYXh6T-216" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-219" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="drljghU39gG9ItoYXh6T-215" target="drljghU39gG9ItoYXh6T-217" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-220" value="病虫害库表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="23744.95" y="11392" width="120" height="60" as="geometry" />
         </mxCell>
@@ -257,8 +226,42 @@
         <mxCell id="drljghU39gG9ItoYXh6T-228" value="作物指南表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="24181.65" y="11392" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-229" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="24400.5" y="11332" width="121.3" height="60" as="geometry" />
+        <mxCell id="QDHXhQLSgiY_y7tH-igC-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="24374.15" y="11000" width="171.70000000000073" height="452" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-185" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="QDHXhQLSgiY_y7tH-igC-1" target="drljghU39gG9ItoYXh6T-180" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85.84999999999854" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-180" value="农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="QDHXhQLSgiY_y7tH-igC-1" vertex="1">
+          <mxGeometry x="5.849999999998545" y="40" width="160" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-213" value="" style="group;fontSize=20;" parent="QDHXhQLSgiY_y7tH-igC-1" vertex="1" connectable="0">
+          <mxGeometry x="32" y="79" width="110" height="56.52" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;fontSize=20;" parent="drljghU39gG9ItoYXh6T-213" source="drljghU39gG9ItoYXh6T-215" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-215" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;rotation=-180;" parent="drljghU39gG9ItoYXh6T-213" vertex="1">
+          <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-216" value="更新农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="QDHXhQLSgiY_y7tH-igC-1" vertex="1">
+          <mxGeometry y="146.52000000000044" width="65.7" height="184.48" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-217" value="查看农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="QDHXhQLSgiY_y7tH-igC-1" vertex="1">
+          <mxGeometry x="106" y="146.52000000000044" width="65.7" height="183.48" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-218" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" parent="QDHXhQLSgiY_y7tH-igC-1" source="drljghU39gG9ItoYXh6T-215" target="drljghU39gG9ItoYXh6T-216" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-219" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" parent="QDHXhQLSgiY_y7tH-igC-1" source="drljghU39gG9ItoYXh6T-215" target="drljghU39gG9ItoYXh6T-217" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drljghU39gG9ItoYXh6T-229" value="" style="group;fontSize=20;" parent="QDHXhQLSgiY_y7tH-igC-1" vertex="1" connectable="0">
+          <mxGeometry x="26.349999999998545" y="332" width="121.3" height="60" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=20;" parent="drljghU39gG9ItoYXh6T-229" source="drljghU39gG9ItoYXh6T-231" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -268,8 +271,8 @@
         <mxCell id="drljghU39gG9ItoYXh6T-231" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;" parent="drljghU39gG9ItoYXh6T-229" vertex="1">
           <mxGeometry width="121.30000000000153" height="21.78" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-232" value="农业资讯表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="24401.8" y="11392" width="120" height="60" as="geometry" />
+        <mxCell id="drljghU39gG9ItoYXh6T-232" value="农业资讯表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="QDHXhQLSgiY_y7tH-igC-1" vertex="1">
+          <mxGeometry x="27.649999999997817" y="392" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
