@@ -33,7 +33,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;危害程度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="EWBYIpWJwCG6Uv1SdfLI-11" target="EWBYIpWJwCG6Uv1SdfLI-2">
           <mxGeometry relative="1" as="geometry" />
@@ -45,13 +45,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发生范围&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EWBYIpWJwCG6Uv1SdfLI-15" target="EWBYIpWJwCG6Uv1SdfLI-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发生时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EWBYIpWJwCG6Uv1SdfLI-17" target="EWBYIpWJwCG6Uv1SdfLI-2">
           <mxGeometry relative="1" as="geometry" />
