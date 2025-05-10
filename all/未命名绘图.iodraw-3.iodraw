@@ -112,10 +112,10 @@
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-19" value="意见管理" style="whiteSpace=wrap;strokeWidth=3;flipV=1;direction=south;flipH=0;labelBackgroundColor=none;fontSize=30;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="1657" y="230" width="100" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="r4G_xtVmuYtl3c2tFIKF-63" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="r4G_xtVmuYtl3c2tFIKF-63" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.48;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="r4G_xtVmuYtl3c2tFIKF-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="556" y="121" as="targetPoint" />
-            <mxPoint x="110" y="200" as="sourcePoint" />
+            <mxPoint x="562" y="121" as="targetPoint" />
+            <mxPoint x="116" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-98" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="r4G_xtVmuYtl3c2tFIKF-20">
