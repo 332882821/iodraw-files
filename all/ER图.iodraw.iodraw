@@ -773,7 +773,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ETe1MAFlV7CgOKuqyC0-8" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-8420" y="3910" width="2370.97" height="1420.42" as="geometry" />
+          <mxGeometry x="-8560" y="400" width="2370.97" height="1420.42" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-245" value="指导员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-8" vertex="1">
           <mxGeometry x="948.3879999999989" y="503.9771478671996" width="569.0327999999996" height="271.37225410478925" as="geometry" />
