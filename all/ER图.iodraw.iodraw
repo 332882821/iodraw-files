@@ -1299,8 +1299,8 @@
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-300" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="7ETe1MAFlV7CgOKuqyC0-2" source="uQs1KfSV7rxMa4fCCKPU-272" target="uQs1KfSV7rxMa4fCCKPU-272" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-76" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4950" y="-1100" width="280" height="80" as="geometry" />
+        <mxCell id="UNURLWZO23DxIrxSIrnp-76" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4950" y="-1100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-75" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uQs1KfSV7rxMa4fCCKPU-220" target="UNURLWZO23DxIrxSIrnp-76">
           <mxGeometry relative="1" as="geometry">
