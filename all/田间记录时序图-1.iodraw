@@ -143,14 +143,9 @@
             <mxPoint x="602" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Fag-t0-wU-N1T2fDtg6-58" value="信息修改&lt;br&gt;成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" parent="-Fag-t0-wU-N1T2fDtg6-57" vertex="1" connectable="0">
+        <mxCell id="-Fag-t0-wU-N1T2fDtg6-58" value="任务信息&lt;br&gt;分配成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" parent="-Fag-t0-wU-N1T2fDtg6-57" vertex="1" connectable="0">
           <mxGeometry x="-0.1039" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGmx7l6Y7iFc3O-CnLNS-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Fag-t0-wU-N1T2fDtg6-57">
-          <mxGeometry x="0.0526" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Fag-t0-wU-N1T2fDtg6-59" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;" parent="1" edge="1">
@@ -287,7 +282,7 @@
             <mxPoint x="962" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cGmx7l6Y7iFc3O-CnLNS-13" value="返回任务信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" vertex="1" connectable="0" parent="cGmx7l6Y7iFc3O-CnLNS-12">
+        <mxCell id="cGmx7l6Y7iFc3O-CnLNS-13" value="信息修改&lt;br&gt;成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;container=0;" vertex="1" connectable="0" parent="cGmx7l6Y7iFc3O-CnLNS-12">
           <mxGeometry x="-0.1039" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
