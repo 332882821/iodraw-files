@@ -1195,7 +1195,7 @@
           <mxGeometry x="1569.7423517190418" y="298.6469860627176" width="470.9227055157132" height="223.9895470383276" as="geometry" />
         </mxCell>
         <mxCell id="7ETe1MAFlV7CgOKuqyC0-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="7329.996680545298" y="3429.974146341464" width="2908.3837461016747" height="2110.670731707317" as="geometry" />
+          <mxGeometry x="7969.996680545298" y="2000.0041463414639" width="2908.3837461016747" height="2110.670731707317" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-271" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=100;fontColor=default;strokeWidth=10;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=none;startArrow=none;startFill=0;" parent="7ETe1MAFlV7CgOKuqyC0-2" target="uQs1KfSV7rxMa4fCCKPU-275" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1318,7 +1318,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-86" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="7600.001913027749" y="989.9987583148572" width="1371.7935848806628" height="729.4066075388023" as="geometry" />
+          <mxGeometry x="7880.001913027749" y="1239.9987583148572" width="1371.7935848806628" height="729.4066075388023" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-63" value="农业资讯分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="UNURLWZO23DxIrxSIrnp-86">
           <mxGeometry x="330" width="690.15" height="263.15" as="geometry" />
