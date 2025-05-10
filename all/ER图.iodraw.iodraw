@@ -609,7 +609,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-102" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-11" vertex="1">
-          <mxGeometry x="1451.2221664951994" y="39.32926829268217" width="455.22528199852286" height="235.97560975609764" as="geometry" />
+          <mxGeometry x="1650.0021664951994" y="209.99926829268216" width="455.22528199852286" height="235.97560975609764" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-103" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="7ETe1MAFlV7CgOKuqyC0-11" source="uQs1KfSV7rxMa4fCCKPU-104" target="uQs1KfSV7rxMa4fCCKPU-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -635,7 +635,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-110" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;帖子内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-11" vertex="1">
-          <mxGeometry x="730.4451238305023" y="1541.950731707318" width="455.22528199852286" height="235.97560975609764" as="geometry" />
+          <mxGeometry x="709.9951238305023" y="1460.000731707318" width="455.22528199852286" height="235.97560975609764" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-111" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="7ETe1MAFlV7CgOKuqyC0-11" source="uQs1KfSV7rxMa4fCCKPU-112" edge="1">
           <mxGeometry relative="1" as="geometry">
