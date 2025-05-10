@@ -655,17 +655,6 @@
         <mxCell id="UhvKoeVGNmMKflQDejtE-214" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;收藏数&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="UhvKoeVGNmMKflQDejtE-174">
           <mxGeometry x="451.5982417582418" y="387.3684210526316" width="75.2663736263736" height="36.31578947368422" as="geometry" />
         </mxCell>
-        <mxCell id="UhvKoeVGNmMKflQDejtE-215" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;查看&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;rotation=40;" vertex="1" parent="UhvKoeVGNmMKflQDejtE-174">
-          <mxGeometry x="27.780932545454544" y="-7.310329813867422" width="55.80055072727273" height="30.042451289866115" as="geometry" />
-        </mxCell>
-        <mxCell id="UhvKoeVGNmMKflQDejtE-216" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="UhvKoeVGNmMKflQDejtE-174" source="UhvKoeVGNmMKflQDejtE-176" target="UhvKoeVGNmMKflQDejtE-215">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UhvKoeVGNmMKflQDejtE-217" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="UhvKoeVGNmMKflQDejtE-216">
-          <mxGeometry x="0.2457" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UhvKoeVGNmMKflQDejtE-219" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2780" y="-10" width="363.64" height="240" as="geometry" />
         </mxCell>
@@ -1572,6 +1561,9 @@
           <mxGeometry x="-0.4039" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UhvKoeVGNmMKflQDejtE-534" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UhvKoeVGNmMKflQDejtE-352" target="UhvKoeVGNmMKflQDejtE-335">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UhvKoeVGNmMKflQDejtE-352" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;作物名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2949.0279120879122" y="610" width="75.2663736263736" height="36.31578947368422" as="geometry" />
