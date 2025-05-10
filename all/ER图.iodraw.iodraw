@@ -1171,7 +1171,7 @@
           <mxGeometry x="-8619.996755395445" y="639.9987583148572" width="551.7937384864762" height="263.1485587583149" as="geometry" />
         </mxCell>
         <mxCell id="7ETe1MAFlV7CgOKuqyC0-12" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-8426.002292346966" y="-1560.0049472643368" width="2339.395003187971" height="1280.422508239948" as="geometry" />
+          <mxGeometry x="-8610.002292346966" y="-1560.0049472643368" width="2339.395003187971" height="1280.422508239948" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-12" vertex="1">
           <mxGeometry x="921.9724338964975" y="382.3948615688869" width="542.3533420390567" height="254.2584047462096" as="geometry" />
@@ -1330,7 +1330,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-180" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;fillColor=none;rotation=-75;" vertex="1" parent="1">
-          <mxGeometry x="-7480" y="150" width="380" height="200" as="geometry" />
+          <mxGeometry x="-7680" y="160" width="380" height="200" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-182" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UNURLWZO23DxIrxSIrnp-180" target="UNURLWZO23DxIrxSIrnp-180">
           <mxGeometry relative="1" as="geometry" />
