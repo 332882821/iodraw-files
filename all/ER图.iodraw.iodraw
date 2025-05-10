@@ -120,7 +120,7 @@
           <mxGeometry x="920.6164955891509" y="1743.59493902439" width="563.2838085335258" height="271.73378048780484" as="geometry" />
         </mxCell>
         <mxCell id="7ETe1MAFlV7CgOKuqyC0-7" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1039.998189403006" y="-3889.996585365853" width="2908.4018105969917" height="2222.29506097561" as="geometry" />
+          <mxGeometry x="1039.998189403006" y="-3889.996585365853" width="2908.4018105969917" height="3554.4600858925533" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-445" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=100;fontColor=default;strokeWidth=10;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=none;startArrow=none;startFill=0;" parent="7ETe1MAFlV7CgOKuqyC0-7" target="uQs1KfSV7rxMa4fCCKPU-449" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -217,6 +217,81 @@
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-473" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;分布范围&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-7" vertex="1">
           <mxGeometry x="1327.7313735813677" y="1929.7522483134408" width="498.5800707602869" height="292.5428126621692" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-27" value="" style="group" parent="7ETe1MAFlV7CgOKuqyC0-7" vertex="1" connectable="0">
+          <mxGeometry x="-9.998189403006108" y="2194.6565853658535" width="1975.1102464993198" height="1359.8035005266997" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-26" value="" style="group" parent="UNURLWZO23DxIrxSIrnp-27" vertex="1" connectable="0">
+          <mxGeometry x="30" y="20" width="1975.1102464993198" height="1359.8035005266997" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=100;fontColor=default;strokeWidth=10;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=none;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" target="UNURLWZO23DxIrxSIrnp-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="859.5357377049181" y="706.046511627907" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-2" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;病虫害诊断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="675.3499999999999" y="706.05" width="514.65" height="223.99" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-3" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="859.5357377049181" y="706.046511627907" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-4" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;&lt;u style=&quot;font-size: 100px;&quot;&gt;诊断编号&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="29.999344262295125" y="279.99604651162787" width="470.9227055157132" height="223.9895470383276" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-5" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;作物名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="329.9995081967212" y="-10" width="470.9227055157132" height="223.9895470383276" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-7" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-7" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;虫害名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="1479.9990163934424" y="319.9967441860465" width="470.9227055157132" height="223.9895470383276" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-9" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-9" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;危害程度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="460.9195081967212" y="1120.0039534883722" width="470.9227055157132" height="223.9895470383276" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-13" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-13" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;发生范围&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="1139.9996721311475" y="1083.5286046511628" width="470.9227055157132" height="223.9895470383276" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-15" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-15" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;发生时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="1473.4898360655739" y="859.5348837209303" width="470.9227055157132" height="223.9895470383276" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-17" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-17" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;作物种类&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="859.9996721311476" y="-29.99697674418607" width="470.9227055157132" height="223.9895470383276" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675.3495081967212" y="798.1395348837209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-21" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;用户姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="-10" y="669.9995348837209" width="470.9227055157132" height="223.9895470383276" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-23" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-23" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;虫害详情&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="-20.000655737704847" y="999.998604651163" width="470.9227055157132" height="223.9895470383276" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-19" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;虫害图片&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
+          <mxGeometry x="1504.1875409836066" y="599.9981395348836" width="470.9227055157132" height="223.9895470383276" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-19" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ETe1MAFlV7CgOKuqyC0-9" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1220.0035327839478" y="219.99829268292797" width="2256.606467216052" height="1567.926829268293" as="geometry" />
@@ -778,81 +853,6 @@
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-354" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;作物种类&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-16" vertex="1">
           <mxGeometry x="2779.998784666525" y="230.0002695763805" width="475.8771688760016" height="266.6110397946086" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-27" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-1230" y="-3548.7" width="1975.1102464993198" height="1359.8035005266997" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-26" value="" style="group" parent="UNURLWZO23DxIrxSIrnp-27" vertex="1" connectable="0">
-          <mxGeometry x="30" y="20" width="1975.1102464993198" height="1359.8035005266997" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=100;fontColor=default;strokeWidth=10;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=none;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" target="UNURLWZO23DxIrxSIrnp-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="859.5357377049181" y="706.046511627907" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-2" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;病虫害诊断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="675.3499999999999" y="706.05" width="514.65" height="223.99" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-3" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="859.5357377049181" y="706.046511627907" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-4" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;&lt;u style=&quot;font-size: 100px;&quot;&gt;诊断编号&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="29.999344262295125" y="279.99604651162787" width="470.9227055157132" height="223.9895470383276" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-5" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;作物名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="329.9995081967212" y="-10" width="470.9227055157132" height="223.9895470383276" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-7" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-7" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;虫害名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="1479.9990163934424" y="319.9967441860465" width="470.9227055157132" height="223.9895470383276" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-9" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-9" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;危害程度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="460.9195081967212" y="1120.0039534883722" width="470.9227055157132" height="223.9895470383276" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-13" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-13" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;发生范围&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="1139.9996721311475" y="1083.5286046511628" width="470.9227055157132" height="223.9895470383276" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-15" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-15" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;发生时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="1473.4898360655739" y="859.5348837209303" width="470.9227055157132" height="223.9895470383276" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-17" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-17" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;作物种类&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="859.9996721311476" y="-29.99697674418607" width="470.9227055157132" height="223.9895470383276" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="675.3495081967212" y="798.1395348837209" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-21" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;用户姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="-10" y="669.9995348837209" width="470.9227055157132" height="223.9895470383276" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-23" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-23" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;虫害详情&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="-20.000655737704847" y="999.998604651163" width="470.9227055157132" height="223.9895470383276" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-19" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;虫害图片&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" vertex="1">
-          <mxGeometry x="1504.1875409836066" y="599.9981395348836" width="470.9227055157132" height="223.9895470383276" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="UNURLWZO23DxIrxSIrnp-26" source="UNURLWZO23DxIrxSIrnp-19" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ETe1MAFlV7CgOKuqyC0-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-8420" y="3910" width="2370.97" height="1420.42" as="geometry" />
