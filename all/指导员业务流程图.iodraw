@@ -293,14 +293,13 @@
         <mxCell id="QDHXhQLSgiY_y7tH-igC-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;rotation=-180;" vertex="1" parent="QDHXhQLSgiY_y7tH-igC-4">
           <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
         </mxCell>
-        <mxCell id="QDHXhQLSgiY_y7tH-igC-7" value="更新农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="24590" y="11146.52" width="65.7" height="184.48" as="geometry" />
-        </mxCell>
         <mxCell id="QDHXhQLSgiY_y7tH-igC-8" value="查看作物种植" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="24696" y="11146.52" width="65.7" height="183.48" as="geometry" />
+          <mxGeometry x="24643" y="11148.52" width="65.7" height="183.48" as="geometry" />
         </mxCell>
-        <mxCell id="QDHXhQLSgiY_y7tH-igC-9" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="QDHXhQLSgiY_y7tH-igC-6" target="QDHXhQLSgiY_y7tH-igC-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QDHXhQLSgiY_y7tH-igC-9" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="QDHXhQLSgiY_y7tH-igC-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="24622.85" y="11146.52" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QDHXhQLSgiY_y7tH-igC-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="QDHXhQLSgiY_y7tH-igC-6" target="QDHXhQLSgiY_y7tH-igC-8">
           <mxGeometry relative="1" as="geometry" />
