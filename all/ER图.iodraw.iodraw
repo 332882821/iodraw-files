@@ -299,8 +299,13 @@
         <mxCell id="29QrUdGiGYdoB8_j2vHh-18" value="指导员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1699.9979999999987" y="2236.3171478671998" width="569.0327999999996" height="271.37225410478925" as="geometry" />
         </mxCell>
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-125" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="29QrUdGiGYdoB8_j2vHh-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5340" y="4650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-19" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1419.9998584504692" y="4289.99991430455" width="542.3533420390567" height="254.2584047462096" as="geometry" />
+          <mxGeometry x="-5559.999858450469" y="1939.9999143045497" width="542.3533420390567" height="254.2584047462096" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-20" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;任务信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="3859.99527904748" y="1000.000088691796" width="519.6635639252544" height="249.99113082039918" as="geometry" />
