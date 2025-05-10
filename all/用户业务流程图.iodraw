@@ -94,13 +94,8 @@
         <mxCell id="xKOgp8LKYkLA_o67TD1X-20" value="病虫害库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="23724.3" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="xKOgp8LKYkLA_o67TD1X-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="xKOgp8LKYkLA_o67TD1X-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="24023" y="11000" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-22" value="农技交流" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="23943" y="11040" width="160" height="39.5" as="geometry" />
+          <mxGeometry x="23908.85" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-23" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="xKOgp8LKYkLA_o67TD1X-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -148,7 +143,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-35" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="23966.15" y="11080" width="110" height="56.52" as="geometry" />
+          <mxGeometry x="23932" y="11080" width="110" height="56.52" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;fontSize=20;" parent="xKOgp8LKYkLA_o67TD1X-35" source="xKOgp8LKYkLA_o67TD1X-37" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -159,10 +154,10 @@
           <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-38" value="发布交流帖子" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="23934.15" y="11147.52" width="65.7" height="184.48" as="geometry" />
+          <mxGeometry x="23900" y="11147.52" width="65.7" height="184.48" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-39" value="查看交流帖子" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="24040.15" y="11147.52" width="65.7" height="183.48" as="geometry" />
+          <mxGeometry x="24006" y="11147.52" width="65.7" height="183.48" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-40" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="xKOgp8LKYkLA_o67TD1X-37" target="xKOgp8LKYkLA_o67TD1X-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -220,7 +215,7 @@
           <mxGeometry x="23744.95" y="11392" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-57" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="23966.15" y="11332" width="121.3" height="60" as="geometry" />
+          <mxGeometry x="23932" y="11332" width="121.3" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=20;" parent="xKOgp8LKYkLA_o67TD1X-57" source="xKOgp8LKYkLA_o67TD1X-59" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -231,7 +226,7 @@
           <mxGeometry width="121.30000000000153" height="21.78" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-60" value="农技交流表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="23967.45" y="11392" width="120" height="60" as="geometry" />
+          <mxGeometry x="23933.3" y="11392" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-61" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="24180.350000000002" y="11332" width="121.3" height="60" as="geometry" />
