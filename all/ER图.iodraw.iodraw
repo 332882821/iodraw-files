@@ -646,7 +646,7 @@
           <mxGeometry x="99.99823933382595" y="590.0053658536589" width="455.22528199852286" height="235.97560975609764" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-93" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;fillColor=none;rotation=60;" vertex="1" parent="7ETe1MAFlV7CgOKuqyC0-11">
-          <mxGeometry x="989.998239333826" y="122.99121951219422" width="530" height="330" as="geometry" />
+          <mxGeometry x="962.998239333826" y="-19.99878048780579" width="530" height="330" as="geometry" />
         </mxCell>
         <mxCell id="7ETe1MAFlV7CgOKuqyC0-12" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-6630.002292346967" y="1139.9950527356632" width="2339.395003187971" height="1280.422508239948" as="geometry" />
@@ -1107,7 +1107,7 @@
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-92" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="UNURLWZO23DxIrxSIrnp-49" source="UNURLWZO23DxIrxSIrnp-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="779.9980869722513" y="1420.0012416851428" as="targetPoint" />
+            <mxPoint x="769.9980869722513" y="1250.0012416851428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-50" value="农技交流分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="UNURLWZO23DxIrxSIrnp-49">
