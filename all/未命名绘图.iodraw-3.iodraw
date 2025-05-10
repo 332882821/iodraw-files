@@ -76,7 +76,7 @@
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-24" value="任务管理" style="whiteSpace=wrap;strokeWidth=2;flipV=0;direction=south;flipH=1;labelBackgroundColor=none;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="524" y="250" width="100" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="r4G_xtVmuYtl3c2tFIKF-25" value="病虫害库维护" style="whiteSpace=wrap;strokeWidth=2;flipV=0;direction=south;flipH=1;labelBackgroundColor=none;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="r4G_xtVmuYtl3c2tFIKF-25" value="病虫害方案管理" style="whiteSpace=wrap;strokeWidth=2;flipV=0;direction=south;flipH=1;labelBackgroundColor=none;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="632" y="250" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-26" value="论坛管理" style="whiteSpace=wrap;strokeWidth=2;flipV=0;flipH=1;direction=south;labelBackgroundColor=none;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;textDirection=vertical-rl;" vertex="1" parent="1">
