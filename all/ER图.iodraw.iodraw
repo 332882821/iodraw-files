@@ -957,7 +957,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ETe1MAFlV7CgOKuqyC0-8" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-260.00009364044763" y="-739.9979268292673" width="2370.965010408975" height="1420.4184146341465" as="geometry" />
+          <mxGeometry x="-8070.000093640448" y="5060.002073170733" width="2370.965010408975" height="1420.4184146341465" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-245" value="指导员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-8" vertex="1">
           <mxGeometry x="948.386004163589" y="503.97658536585413" width="569.0316024981537" height="271.3719512195122" as="geometry" />
