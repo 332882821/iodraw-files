@@ -609,7 +609,7 @@
           <mxGeometry x="1327.7305470152369" y="1927.3308226761167" width="498.57976037415904" height="292.17573410728517" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-26" value="种植日历" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1329.995822067025" y="1086.639539677088" width="487.74137356984596" height="265.0017176228101" as="geometry" />
+          <mxGeometry x="1249.995822067025" y="889.9995396770879" width="487.74137356984596" height="265.0017176228101" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-27" value="" style="group;fontSize=100;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-13470.004177932975" y="800.0039161800082" width="2225.4890062453837" height="1657.9212057712127" as="geometry" />
@@ -1388,7 +1388,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-61" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="210" y="850" width="200" height="430" as="geometry" />
+          <mxGeometry x="210" y="790" width="200" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-65" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="220" y="800" width="200" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
