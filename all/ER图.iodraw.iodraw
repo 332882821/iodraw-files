@@ -585,7 +585,7 @@
           <mxGeometry x="349.99352133234834" y="235.9770731707305" width="455.22528199852286" height="235.97560975609764" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-92" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;封面&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-11" vertex="1">
-          <mxGeometry x="920.1260041635896" width="455.22528199852286" height="235.97560975609764" as="geometry" />
+          <mxGeometry x="734.9960041635896" y="20" width="455.22528199852286" height="235.97560975609764" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-93" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="7ETe1MAFlV7CgOKuqyC0-11" source="uQs1KfSV7rxMa4fCCKPU-94" target="uQs1KfSV7rxMa4fCCKPU-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1101,6 +1101,11 @@
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-49" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="5570.001913027749" y="109.99875831485724" width="1941.7906931443645" height="1283.1966075388018" as="geometry" />
+        </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-91" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="UNURLWZO23DxIrxSIrnp-49" source="UNURLWZO23DxIrxSIrnp-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1669.9980869722513" y="625.3250000000012" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-50" value="农技交流分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="UNURLWZO23DxIrxSIrnp-49">
           <mxGeometry x="380" y="493.75" width="690.15" height="263.15" as="geometry" />
