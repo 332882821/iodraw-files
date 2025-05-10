@@ -148,9 +148,6 @@
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-20" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;密码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-16240.002292346966" y="-524.2549472643368" width="537.88" height="252.5" as="geometry" />
         </mxCell>
-        <mxCell id="29QrUdGiGYdoB8_j2vHh-79" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="29QrUdGiGYdoB8_j2vHh-4" target="29QrUdGiGYdoB8_j2vHh-77">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-4" value="作物种植" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2410.0028571428566" y="789.0055452685925" width="464.4942857142859" height="221.9898879957398" as="geometry" />
         </mxCell>
@@ -1389,7 +1386,7 @@
         <mxCell id="29QrUdGiGYdoB8_j2vHh-69" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="29QrUdGiGYdoB8_j2vHh-57" target="uQs1KfSV7rxMa4fCCKPU-220">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="29QrUdGiGYdoB8_j2vHh-57" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=-108;" vertex="1" parent="1">
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-57" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=65;" vertex="1" parent="1">
           <mxGeometry x="-1220" y="900" width="500" height="200" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-63" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="29QrUdGiGYdoB8_j2vHh-75" target="uQs1KfSV7rxMa4fCCKPU-220">
@@ -1418,9 +1415,6 @@
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-76" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=-47;" vertex="1" parent="1">
           <mxGeometry x="329.46" y="910" width="500" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="29QrUdGiGYdoB8_j2vHh-78" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="29QrUdGiGYdoB8_j2vHh-77" target="uQs1KfSV7rxMa4fCCKPU-220">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29QrUdGiGYdoB8_j2vHh-77" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="-1510" y="980" width="520" height="200" as="geometry" />
