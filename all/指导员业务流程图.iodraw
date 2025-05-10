@@ -160,7 +160,7 @@
         <mxCell id="drljghU39gG9ItoYXh6T-201" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;rotation=-180;" parent="drljghU39gG9ItoYXh6T-199" vertex="1">
           <mxGeometry y="19.999999999999847" width="110" height="36.519999999999726" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-202" value="查看农技交流" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="1" vertex="1">
+        <mxCell id="drljghU39gG9ItoYXh6T-202" value="查看交流帖子" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="23934.15" y="11147.52" width="65.7" height="184.48" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-203" value="查看农技交流" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" parent="1" vertex="1">
