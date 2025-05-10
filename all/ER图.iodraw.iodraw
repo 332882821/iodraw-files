@@ -237,7 +237,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-307" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;&lt;u style=&quot;font-size: 100px;&quot;&gt;消息编号&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1898.3792299778452" y="1619.9973170731737" width="660.8108932236624" height="303.9365853658537" as="geometry" />
+          <mxGeometry x="1889.999229977845" y="1749.9973170731737" width="660.8108932236624" height="303.9365853658537" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-308" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="1" source="uQs1KfSV7rxMa4fCCKPU-309" target="uQs1KfSV7rxMa4fCCKPU-305" edge="1">
           <mxGeometry relative="1" as="geometry" />
