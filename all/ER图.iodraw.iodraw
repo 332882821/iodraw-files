@@ -1589,6 +1589,9 @@
         <mxCell id="29QrUdGiGYdoB8_j2vHh-134" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=10;" vertex="1" parent="1">
           <mxGeometry x="-2940" y="360" width="520" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="29QrUdGiGYdoB8_j2vHh-138" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;strokeWidth=10;fillColor=none;strokeColor=default;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="-5090" y="121.99000000000001" width="520" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
