@@ -557,6 +557,9 @@
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-12" vertex="1">
           <mxGeometry x="921.9724338964975" y="382.3948615688869" width="542.3533420390567" height="254.2584047462096" as="geometry" />
         </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-159" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="7ETe1MAFlV7CgOKuqyC0-12" source="uQs1KfSV7rxMa4fCCKPU-7" target="uQs1KfSV7rxMa4fCCKPU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-7" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;&lt;u style=&quot;font-size: 100px;&quot;&gt;用户编号&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-12" vertex="1">
           <mxGeometry width="542.3533420390567" height="254.2584047462096" as="geometry" />
         </mxCell>
@@ -566,8 +569,11 @@
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-10" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;头像&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-12" vertex="1">
           <mxGeometry x="63.246309001325244" y="382.3948615688869" width="542.3533420390567" height="254.2584047462096" as="geometry" />
         </mxCell>
+        <mxCell id="UNURLWZO23DxIrxSIrnp-160" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="7ETe1MAFlV7CgOKuqyC0-12" source="uQs1KfSV7rxMa4fCCKPU-12" target="uQs1KfSV7rxMa4fCCKPU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-12" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;用户姓名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-12" vertex="1">
-          <mxGeometry x="1735.502446955084" y="382.3948615688869" width="542.3533420390567" height="254.2584047462096" as="geometry" />
+          <mxGeometry x="370.002446955084" y="990.0048615688869" width="542.3533420390567" height="254.2584047462096" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-14" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;性别&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="7ETe1MAFlV7CgOKuqyC0-12" vertex="1">
           <mxGeometry x="1797.041661148914" y="771.9301466710622" width="542.3533420390567" height="254.2584047462096" as="geometry" />
