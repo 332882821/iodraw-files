@@ -106,7 +106,7 @@
         <mxCell id="xKOgp8LKYkLA_o67TD1X-27" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="23803" y="11000" as="sourcePoint" />
-            <mxPoint x="25620" y="11000" as="targetPoint" />
+            <mxPoint x="25650" y="11000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-28" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
@@ -496,7 +496,7 @@
         <mxCell id="oTs-4-UWU5TIKV8X0CEw-116" value="反馈意见表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="25407.649999999998" y="11392" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oTs-4-UWU5TIKV8X0CEw-127" value="病虫害方案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-127" value="任务信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="25570" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="oTs-4-UWU5TIKV8X0CEw-128" value="查看病虫害方案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
@@ -517,9 +517,9 @@
             <mxPoint x="25670.15" y="11060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oTs-4-UWU5TIKV8X0CEw-137" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1">
+        <mxCell id="oTs-4-UWU5TIKV8X0CEw-137" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" target="oTs-4-UWU5TIKV8X0CEw-127">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="25640" y="11000" as="sourcePoint" />
+            <mxPoint x="25650" y="11000" as="sourcePoint" />
             <mxPoint x="25476" y="11050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
