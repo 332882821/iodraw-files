@@ -235,7 +235,7 @@
           <mxGeometry x="23680" y="11514.68" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-242" value="更新病虫害库信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="23741.176895424836" y="11512.389239202521" width="40" height="90" as="geometry" />
+          <mxGeometry x="23741.18" y="11517.39" width="40" height="87.61" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-243" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="23700.25" y="11604.55" width="57.75" height="14.52" as="geometry" />
