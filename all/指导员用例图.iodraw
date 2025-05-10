@@ -58,11 +58,11 @@
         <mxCell id="g7UaveCp7grGG392u-9t-2" value="查看病虫害诊断请求&#xa;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;flipH=1;flipV=1;fontSize=24;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="250" y="850" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g7UaveCp7grGG392u-9t-3" value="指导种植技术&#xa;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;flipH=1;flipV=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="250" y="960" width="220" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="g7UaveCp7grGG392u-9t-4" value="更新病虫害诊断" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;flipH=1;flipV=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="g7UaveCp7grGG392u-9t-4" value="指导种植技术" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;flipH=1;flipV=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="260" y="1140" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g7UaveCp7grGG392u-9t-5" value="发布病虫害防治方案" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;flipH=1;flipV=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1010" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
