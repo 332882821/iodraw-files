@@ -1257,9 +1257,6 @@
         <mxCell id="UNURLWZO23DxIrxSIrnp-45" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;踩&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="70.00270548781441" y="2700.00219043152" width="525.258999441468" height="250.49718574108817" as="geometry" />
         </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-48" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UNURLWZO23DxIrxSIrnp-47" target="UNURLWZO23DxIrxSIrnp-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-47" value="是否置顶" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="430.0027054878144" y="3640.00219043152" width="525.258999441468" height="250.49718574108817" as="geometry" />
         </mxCell>
