@@ -7,7 +7,7 @@
         <mxCell id="aERPqaAesMlL00CIwLID-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-24430" y="2660" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aERPqaAesMlL00CIwLID-2" value="农技交流分类" style="rounded=0;whiteSpace=wrap;strokeWidth=2;fillColor=none;fontSize=12;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="aERPqaAesMlL00CIwLID-7">
+        <mxCell id="aERPqaAesMlL00CIwLID-2" value="农业咨询分类" style="rounded=0;whiteSpace=wrap;strokeWidth=2;fillColor=none;fontSize=12;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="aERPqaAesMlL00CIwLID-7">
           <mxGeometry x="67.447277744883" width="128.76298478568583" height="45.36189090401264" as="geometry" />
         </mxCell>
         <mxCell id="aERPqaAesMlL00CIwLID-3" value="分类名称" style="ellipse;whiteSpace=wrap;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" vertex="1" parent="aERPqaAesMlL00CIwLID-7">
