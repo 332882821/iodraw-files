@@ -1200,6 +1200,15 @@
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-514" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="9S7mj9QBb8mT_77BGnan-13" source="uQs1KfSV7rxMa4fCCKPU-501" target="uQs1KfSV7rxMa4fCCKPU-501" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9S7mj9QBb8mT_77BGnan-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9S7mj9QBb8mT_77BGnan-14" target="uQs1KfSV7rxMa4fCCKPU-501">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9S7mj9QBb8mT_77BGnan-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9S7mj9QBb8mT_77BGnan-14" target="29QrUdGiGYdoB8_j2vHh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9S7mj9QBb8mT_77BGnan-14" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-16250" y="1690" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
