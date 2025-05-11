@@ -647,7 +647,7 @@
           <mxGeometry x="823.4746083641003" y="860.8672317542937" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-22440.003319454703" y="3039.999024390244" width="2781.0360945984467" height="2116.83274225445" as="geometry" />
+          <mxGeometry x="-25690.003319454703" y="5439.999024390244" width="2781.0360945984467" height="2116.83274225445" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-271" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=100;fontColor=default;strokeWidth=10;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=none;startArrow=none;startFill=0;" parent="9S7mj9QBb8mT_77BGnan-61" target="uQs1KfSV7rxMa4fCCKPU-275" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -865,9 +865,6 @@
         <mxCell id="9S7mj9QBb8mT_77BGnan-72" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-22459.997403960035" y="6250.000731707319" width="3725.569261305296" height="2938.923255733266" as="geometry" />
         </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-360" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="9S7mj9QBb8mT_77BGnan-72" source="uQs1KfSV7rxMa4fCCKPU-353" target="uQs1KfSV7rxMa4fCCKPU-176" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-361" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="9S7mj9QBb8mT_77BGnan-72" source="uQs1KfSV7rxMa4fCCKPU-354" target="uQs1KfSV7rxMa4fCCKPU-176" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1010,9 +1007,6 @@
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-352" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;作物名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-72" vertex="1">
           <mxGeometry x="790.000807352957" width="501.03411540717934" height="283.59591298615703" as="geometry" />
-        </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-353" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;评论数&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-72" vertex="1">
-          <mxGeometry x="2180.000159049021" y="20.000403906108204" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-354" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;作物种类&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-72" vertex="1">
           <mxGeometry x="2569.9987846665244" y="283.6002695763806" width="501.03411540717934" height="283.59591298615703" as="geometry" />
