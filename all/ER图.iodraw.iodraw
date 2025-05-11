@@ -336,6 +336,9 @@
         <mxCell id="9S7mj9QBb8mT_77BGnan-69" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=25;" vertex="1" parent="9S7mj9QBb8mT_77BGnan-8">
           <mxGeometry x="2260.006755395443" y="1112.9953880266062" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
+        <mxCell id="9S7mj9QBb8mT_77BGnan-76" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=25;" vertex="1" parent="9S7mj9QBb8mT_77BGnan-8">
+          <mxGeometry x="1410.0067553954432" y="1229.9953880266062" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+        </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9S7mj9QBb8mT_77BGnan-9" target="uQs1KfSV7rxMa4fCCKPU-480">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
