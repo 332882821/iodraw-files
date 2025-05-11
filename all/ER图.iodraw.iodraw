@@ -1113,7 +1113,7 @@
           <mxGeometry x="219.99675563917663" y="1020.0001801092449" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-16769.99820547703" y="-129.99560975609756" width="1701.0342147529918" height="1253.594871456823" as="geometry" />
+          <mxGeometry x="-17029.99820547703" y="-339.99560975609756" width="1701.0342147529918" height="1253.594871456823" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-492" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;图片&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-5" vertex="1">
           <mxGeometry x="59.99866965765068" y="939.9952455504285" width="501.03411540717934" height="283.59591298615703" as="geometry" />
