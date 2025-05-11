@@ -72,9 +72,6 @@
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="24638.537441643326" y="11335.859897470946" width="88.91045751633993" height="40.64452696289067" as="geometry" />
         </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;轮播图管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="24741.41954248366" y="11436.201073410582" width="88.91045751633993" height="40.64452696289067" as="geometry" />
-        </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;关于我们&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="24635.99714285714" y="11436.201073410582" width="88.91045751633993" height="40.64452696289067" as="geometry" />
         </mxCell>
@@ -443,12 +440,6 @@
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-330" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;rotation=90;container=0;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="24774.147481895427" y="11468.18831613038" width="30.05173464052289" height="47.3673857508463" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-331" value="查看轮播图信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="24749.93148459384" y="11514.677399056385" width="40" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="yR1auHhi-Quxu6Nf3HfM-332" value="更新轮播图信息" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=south;container=0;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="24799.562086834736" y="11512.39050934399" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-333" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="24772.63200793651" y="11603.552203905692" width="44.455228758169966" height="14.519662020730332" as="geometry" />
