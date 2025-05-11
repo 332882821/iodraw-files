@@ -70,7 +70,7 @@
           <mxGeometry x="23788.426452847805" y="11436.201073410582" width="88.91045751633993" height="40.64452696289067" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="24555.44" y="11335.86" width="160" height="40.64" as="geometry" />
+          <mxGeometry x="24550" y="11335.86" width="160" height="40.64" as="geometry" />
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;关于我们&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="24635.99714285714" y="11436.201073410582" width="88.91045751633993" height="40.64452696289067" as="geometry" />
@@ -141,7 +141,7 @@
         </mxCell>
         <mxCell id="yR1auHhi-Quxu6Nf3HfM-83" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;entryX=0.48;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="yR1auHhi-Quxu6Nf3HfM-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="24575" y="11429" as="sourcePoint" />
+            <mxPoint x="24575" y="11430" as="sourcePoint" />
             <mxPoint x="24632.18669467787" y="11422.22951726709" as="targetPoint" />
           </mxGeometry>
         </mxCell>
