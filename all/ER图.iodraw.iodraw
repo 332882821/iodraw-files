@@ -593,7 +593,7 @@
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-333" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;种植时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-60" vertex="1">
           <mxGeometry x="1287.945239276798" y="1360.3444797447069" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-334" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="9S7mj9QBb8mT_77BGnan-60" source="uQs1KfSV7rxMa4fCCKPU-335" edge="1">
+        <mxCell id="uQs1KfSV7rxMa4fCCKPU-334" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="9S7mj9QBb8mT_77BGnan-60" source="uQs1KfSV7rxMa4fCCKPU-335" edge="1" target="29QrUdGiGYdoB8_j2vHh-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1055.7217512212446" y="1082.8571197500337" as="targetPoint" />
           </mxGeometry>
@@ -620,6 +620,9 @@
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-340" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=10;fontSize=100;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;" parent="9S7mj9QBb8mT_77BGnan-60" source="uQs1KfSV7rxMa4fCCKPU-341" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1062.9823317900846" y="1082.8571197500337" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1062.9974655069564" y="1320.0016864857012" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-341" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;土壤类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-60" vertex="1">
