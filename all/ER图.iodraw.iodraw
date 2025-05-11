@@ -1754,13 +1754,13 @@
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-235" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-28020" y="7710" as="targetPoint" />
+            <mxPoint x="-27400" y="7710" as="targetPoint" />
             <mxPoint x="-23271" y="7654" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-236" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-28020" y="7720" as="targetPoint" />
+            <mxPoint x="-28060" y="7680" as="targetPoint" />
             <mxPoint x="-28231.002292346966" y="3105.995052735663" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
