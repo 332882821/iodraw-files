@@ -1528,7 +1528,7 @@
           <mxGeometry x="-23640.002235170236" y="3469.998780487806" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-142" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-22742" y="5440" width="1321.03" height="750" as="geometry" />
+          <mxGeometry x="-22750" y="5390" width="1321.03" height="750" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-143" value="农业资讯分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="9S7mj9QBb8mT_77BGnan-142">
           <mxGeometry x="329.9995456271217" width="629.9991325608687" height="283.5118181500788" as="geometry" />
