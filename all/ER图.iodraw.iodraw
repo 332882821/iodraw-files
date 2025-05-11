@@ -1230,11 +1230,6 @@
             <mxPoint x="1242.002292346966" y="5640.004947264337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9S7mj9QBb8mT_77BGnan-265" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="9S7mj9QBb8mT_77BGnan-108" source="uQs1KfSV7rxMa4fCCKPU-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1822.002292346966" y="1490.0049472643368" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-108" vertex="1">
           <mxGeometry x="1031.9724338964952" y="382.3948615688869" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
@@ -1753,7 +1748,7 @@
         <mxCell id="9S7mj9QBb8mT_77BGnan-236" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9S7mj9QBb8mT_77BGnan-237">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-26060" y="7280" as="targetPoint" />
-            <mxPoint x="-28231.002292346966" y="3105.995052735663" as="sourcePoint" />
+            <mxPoint x="-28231" y="3130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-237" value="反馈" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=0;" vertex="1" parent="1">
@@ -1832,7 +1827,7 @@
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-264" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0.014;exitY=0.504;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="9S7mj9QBb8mT_77BGnan-255" source="9S7mj9QBb8mT_77BGnan-262">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1060" y="119.99856472795545" as="targetPoint" />
+            <mxPoint x="-990" y="119.99856472795545" as="targetPoint" />
             <mxPoint x="-10" y="529.9985647279555" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
