@@ -1705,11 +1705,11 @@
         <mxCell id="9S7mj9QBb8mT_77BGnan-205" value="收藏" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=0;" vertex="1" parent="9S7mj9QBb8mT_77BGnan-206">
           <mxGeometry y="399.998564727955" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-14" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;性别&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-29140.000631198054" y="1986.3951994067252" width="501.03411540717934" height="283.59591298615703" as="geometry" />
-        </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-163" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="uQs1KfSV7rxMa4fCCKPU-14" target="uQs1KfSV7rxMa4fCCKPU-5" edge="1">
+        <mxCell id="9S7mj9QBb8mT_77BGnan-238" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uQs1KfSV7rxMa4fCCKPU-14" target="uQs1KfSV7rxMa4fCCKPU-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQs1KfSV7rxMa4fCCKPU-14" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;性别&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-29000.000631198054" y="2189.7751994067253" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-221" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-22200" y="7470.001435272045" width="1269.3803397202828" height="1140.8166681456314" as="geometry" />
