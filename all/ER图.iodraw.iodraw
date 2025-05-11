@@ -2240,6 +2240,11 @@
             <mxPoint x="32" y="-1068" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9S7mj9QBb8mT_77BGnan-448" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-25960.0042215824" y="909.9950944736302" as="geometry">
+            <mxPoint x="-516" y="824" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
