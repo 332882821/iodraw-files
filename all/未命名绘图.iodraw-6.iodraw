@@ -1,9 +1,27 @@
-<mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="CvRD5KvvYbGg4cpYp24C">
-    <mxGraphModel dx="1147" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="25368" dy="-2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aERPqaAesMlL00CIwLID-7" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-24430" y="2660" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aERPqaAesMlL00CIwLID-2" value="农业咨询分类" style="rounded=0;whiteSpace=wrap;strokeWidth=2;fillColor=none;fontSize=12;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="aERPqaAesMlL00CIwLID-7" vertex="1">
+          <mxGeometry x="67.447277744883" width="128.76298478568583" height="45.36189090401264" as="geometry" />
+        </mxCell>
+        <mxCell id="aERPqaAesMlL00CIwLID-3" value="分类名称" style="ellipse;whiteSpace=wrap;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="aERPqaAesMlL00CIwLID-7" vertex="1">
+          <mxGeometry x="167.59579654081875" y="74.63876281487339" width="102.40420345918125" height="45.36123718512664" as="geometry" />
+        </mxCell>
+        <mxCell id="aERPqaAesMlL00CIwLID-4" value="分类编号" style="ellipse;whiteSpace=wrap;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;fontStyle=4" parent="aERPqaAesMlL00CIwLID-7" vertex="1">
+          <mxGeometry y="74.63841141893076" width="102.40420345918125" height="45.36123718512664" as="geometry" />
+        </mxCell>
+        <mxCell id="aERPqaAesMlL00CIwLID-5" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="aERPqaAesMlL00CIwLID-7" source="aERPqaAesMlL00CIwLID-3" target="aERPqaAesMlL00CIwLID-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aERPqaAesMlL00CIwLID-6" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="aERPqaAesMlL00CIwLID-7" source="aERPqaAesMlL00CIwLID-4" target="aERPqaAesMlL00CIwLID-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
