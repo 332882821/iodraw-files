@@ -462,6 +462,11 @@
             <mxPoint x="879.5363934426223" y="736.0434883720927" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9S7mj9QBb8mT_77BGnan-289" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="9S7mj9QBb8mT_77BGnan-59" source="UNURLWZO23DxIrxSIrnp-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4020.0006557377055" y="4579.996976744186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-2" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;病虫害诊断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-59" vertex="1">
           <mxGeometry x="695.3506557377041" y="736.0469767441864" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
