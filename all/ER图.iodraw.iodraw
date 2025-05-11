@@ -1933,8 +1933,8 @@
             <mxPoint x="-15010" y="5640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9S7mj9QBb8mT_77BGnan-307" value="提供" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-14840" y="5910" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+        <mxCell id="9S7mj9QBb8mT_77BGnan-307" value="分配" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-13310" y="5540" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-309" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9S7mj9QBb8mT_77BGnan-28" target="9S7mj9QBb8mT_77BGnan-307">
           <mxGeometry relative="1" as="geometry" />
