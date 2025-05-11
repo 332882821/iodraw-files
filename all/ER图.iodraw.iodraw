@@ -26,7 +26,7 @@
           <mxGeometry x="-12771.643775686895" y="6085.995947467167" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-16789.998707272694" y="3769.9998868583125" width="1851.035789804675" height="1453.5963650781246" as="geometry" />
+          <mxGeometry x="-16399.998707272694" y="3779.9998868583125" width="1851.035789804675" height="1453.5963650781246" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-245" value="指导员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-1" vertex="1">
           <mxGeometry x="998.3867072726916" y="433.97726100888667" width="501.03411540717934" height="283.59591298615703" as="geometry" />
@@ -228,7 +228,7 @@
           <mxGeometry x="-16250" y="1690" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-14619.998128193758" y="3169.9978048780486" width="2482.910235295745" height="2027.1908520105471" as="geometry" />
+          <mxGeometry x="-14259.998128193758" y="3077.9978048780486" width="2482.910235295745" height="2027.1908520105471" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-414" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=100;fontColor=default;strokeWidth=10;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=none;startArrow=none;startFill=0;" parent="9S7mj9QBb8mT_77BGnan-17" target="uQs1KfSV7rxMa4fCCKPU-418" edge="1">
           <mxGeometry relative="1" as="geometry">
