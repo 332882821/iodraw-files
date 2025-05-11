@@ -642,10 +642,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-274" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;&lt;u style=&quot;font-size: 100px;&quot;&gt;资讯编号&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-61" vertex="1">
-          <mxGeometry x="660.0034276803817" y="200" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+          <mxGeometry x="638.9634276803818" y="-90" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-275" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;创建时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-61" vertex="1">
-          <mxGeometry x="1062.001837670694" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+          <mxGeometry x="1140.001837670694" y="16.41" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-276" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="9S7mj9QBb8mT_77BGnan-61" source="uQs1KfSV7rxMa4fCCKPU-277" target="uQs1KfSV7rxMa4fCCKPU-272" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -723,7 +723,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-299" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;头像&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-61" vertex="1">
-          <mxGeometry x="330.00169615012055" y="477.44268292682955" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+          <mxGeometry x="210.00169615012055" y="170.00268292682955" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-300" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="9S7mj9QBb8mT_77BGnan-61" source="uQs1KfSV7rxMa4fCCKPU-272" target="uQs1KfSV7rxMa4fCCKPU-272" edge="1">
           <mxGeometry relative="1" as="geometry" />
