@@ -951,7 +951,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-58" value="" style="group;fontSize=100;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-11580" y="3210" width="2906.73" height="2190" as="geometry" />
+          <mxGeometry x="-11670" y="3220" width="2906.73" height="2190" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-28" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;任务信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;" vertex="1" parent="9S7mj9QBb8mT_77BGnan-58">
           <mxGeometry x="1274.1830136986302" y="1075.090909090909" width="477.81863013698626" height="238.9090909090909" as="geometry" />
