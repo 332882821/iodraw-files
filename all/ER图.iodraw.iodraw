@@ -1522,6 +1522,9 @@
             <mxPoint x="-22050" y="2970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9S7mj9QBb8mT_77BGnan-139" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-21200" y="1680" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
