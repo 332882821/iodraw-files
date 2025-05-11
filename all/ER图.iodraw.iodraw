@@ -1164,7 +1164,7 @@
         <mxCell id="9S7mj9QBb8mT_77BGnan-4" value="" style="group" vertex="1" connectable="0" parent="9S7mj9QBb8mT_77BGnan-6">
           <mxGeometry y="110" width="1519.3891307585454" height="1193.5900593276206" as="geometry" />
         </mxCell>
-        <mxCell id="9S7mj9QBb8mT_77BGnan-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9S7mj9QBb8mT_77BGnan-4" source="29QrUdGiGYdoB8_j2vHh-8">
+        <mxCell id="9S7mj9QBb8mT_77BGnan-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=10;" edge="1" parent="9S7mj9QBb8mT_77BGnan-4" source="29QrUdGiGYdoB8_j2vHh-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1049.9967553954448" y="-490.0046119733938" as="targetPoint" />
           </mxGeometry>
