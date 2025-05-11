@@ -342,6 +342,9 @@
         <mxCell id="9S7mj9QBb8mT_77BGnan-76" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=25;" vertex="1" parent="9S7mj9QBb8mT_77BGnan-8">
           <mxGeometry x="1670.0067553954432" y="1109.9953880266062" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
+        <mxCell id="9S7mj9QBb8mT_77BGnan-83" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;rotation=25;" vertex="1" parent="9S7mj9QBb8mT_77BGnan-8">
+          <mxGeometry x="400.0067553954432" y="1309.9953880266062" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+        </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9S7mj9QBb8mT_77BGnan-9" target="uQs1KfSV7rxMa4fCCKPU-480">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -775,7 +778,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-15" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;发生时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-59" vertex="1">
-          <mxGeometry x="1450.000491803279" y="950.0018604651166" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+          <mxGeometry x="1480.000491803279" y="1000.0018604651166" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="9S7mj9QBb8mT_77BGnan-59" source="UNURLWZO23DxIrxSIrnp-17" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -798,7 +801,7 @@
           <mxGeometry y="1029.9955813953493" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-19" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;虫害图片&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-59" vertex="1">
-          <mxGeometry x="1524.1881967213121" y="629.9951162790694" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+          <mxGeometry x="1524.1881967213121" y="666.4051162790694" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;" parent="9S7mj9QBb8mT_77BGnan-59" source="UNURLWZO23DxIrxSIrnp-19" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
