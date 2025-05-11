@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A_76XB7JRG83LFDcwgLu-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;农业资讯分类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="A_76XB7JRG83LFDcwgLu-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;农技交流分类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-65" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="A_76XB7JRG83LFDcwgLu-57" target="A_76XB7JRG83LFDcwgLu-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-57" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;分类编号&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-66" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="A_76XB7JRG83LFDcwgLu-61" target="A_76XB7JRG83LFDcwgLu-56" edge="1">
           <mxGeometry relative="1" as="geometry">
