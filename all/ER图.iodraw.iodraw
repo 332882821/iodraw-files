@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Jz8amVuvhhNjwr-Lkj5i">
-    <mxGraphModel dx="33869" dy="4727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="36942" dy="6518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1565,7 +1565,7 @@
           <mxGeometry x="-23640.002235170236" y="3469.998780487806" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-142" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-21390" y="3490" width="1631.0341154071793" height="750" as="geometry" />
+          <mxGeometry x="-21390" y="3490" width="3549.9957784176004" height="750" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-143" value="农业资讯分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;fontSize=100;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="9S7mj9QBb8mT_77BGnan-142">
           <mxGeometry x="329.9995456271217" width="629.9991325608687" height="283.5118181500788" as="geometry" />
@@ -1585,6 +1585,11 @@
         <mxCell id="9S7mj9QBb8mT_77BGnan-176" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="9S7mj9QBb8mT_77BGnan-142" source="9S7mj9QBb8mT_77BGnan-175">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3890" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9S7mj9QBb8mT_77BGnan-324" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="9S7mj9QBb8mT_77BGnan-142">
+          <mxGeometry x="3549.9957784176004" y="-1010.0049055263698" as="geometry">
+            <mxPoint x="-516" y="824" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-150" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9S7mj9QBb8mT_77BGnan-143" target="9S7mj9QBb8mT_77BGnan-149">
@@ -1973,6 +1978,11 @@
         <mxCell id="9S7mj9QBb8mT_77BGnan-323" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-16374.76889169059" y="2281.522916666814" as="geometry">
             <mxPoint x="-120" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9S7mj9QBb8mT_77BGnan-325" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-16266.154221582401" y="2381.57509447363" as="geometry">
+            <mxPoint x="-516" y="824" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
