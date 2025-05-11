@@ -1191,8 +1191,8 @@
         <mxCell id="29QrUdGiGYdoB8_j2vHh-17" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=100;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="9S7mj9QBb8mT_77BGnan-8" vertex="1">
           <mxGeometry y="289.9941463414634" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
-        <mxCell id="9S7mj9QBb8mT_77BGnan-9" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-15170" y="1500" width="501.03411540717934" height="283.59591298615703" as="geometry" />
+        <mxCell id="9S7mj9QBb8mT_77BGnan-9" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=100;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fillColor=none;" vertex="1" parent="9S7mj9QBb8mT_77BGnan-8">
+          <mxGeometry x="964.9967553954448" y="79.99538802660618" width="501.03411540717934" height="283.59591298615703" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
