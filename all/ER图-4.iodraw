@@ -1800,7 +1800,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xDZ_Skpq365j9dm8kgYx-50" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-12130.004464214957" y="7763.460047344641" width="177.64542265438467" height="127.34271371601153" as="geometry" />
+          <mxGeometry x="-12136.154464214957" y="7900.130047344641" width="177.64542265438467" height="127.34271371601153" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-245" value="指导员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=10;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="xDZ_Skpq365j9dm8kgYx-50" vertex="1">
           <mxGeometry x="89.07867427304154" y="47.16829541449897" width="44.70357471801333" height="22.52061935730414" as="geometry" />
