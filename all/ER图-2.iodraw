@@ -706,7 +706,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;font-size: 10px;&quot;&gt;任务编号&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="wdtAg5vwlMcg6ZvbmYp1-7" vertex="1">
-          <mxGeometry x="1652.262221384149" y="401.3260760972947" width="41.94461179278868" height="20.185342020478647" as="geometry" />
+          <mxGeometry x="1650" y="401.33" width="44.21" height="20.19" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-32" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="wdtAg5vwlMcg6ZvbmYp1-7" source="9S7mj9QBb8mT_77BGnan-33" target="9S7mj9QBb8mT_77BGnan-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1648,7 +1648,7 @@
           <mxGeometry x="420.48336746823594" y="510.6210668361936" width="43.982549319335725" height="23.960915331655368" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-50" value="农技交流分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=10;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="wdtAg5vwlMcg6ZvbmYp1-7" vertex="1">
-          <mxGeometry x="485.4431486707211" y="396.25639072925986" width="55.30355532073631" height="23.95381018960348" as="geometry" />
+          <mxGeometry x="485.44" y="396.26" width="64.56" height="23.95" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;分类名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="wdtAg5vwlMcg6ZvbmYp1-7" vertex="1">
           <mxGeometry x="528.4568234371111" y="435.67015240505776" width="43.982488760312876" height="23.953464986663292" as="geometry" />
