@@ -1848,7 +1848,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xDZ_Skpq365j9dm8kgYx-55" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-11880" y="7608.34" width="256.04" height="146.91" as="geometry" />
+          <mxGeometry x="-11901" y="7608.34" width="256.04" height="146.91" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-28" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;任务信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=10;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="xDZ_Skpq365j9dm8kgYx-55" vertex="1">
           <mxGeometry x="110.38262792227465" y="58.37176841516675" width="42.63142597396781" height="18.972478196750178" as="geometry" />
