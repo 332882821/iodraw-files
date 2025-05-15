@@ -2058,8 +2058,8 @@
         <mxCell id="29QrUdGiGYdoB8_j2vHh-3" value="作物种植" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=10;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="R38g8yzZNCz5mdvEYGyM-7" vertex="1">
           <mxGeometry x="76.1492376500646" y="63.64008342060333" width="44.70357471801333" height="22.52061935730414" as="geometry" />
         </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-345" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;生长观测&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-12817.998971974695" y="7599.002082315542" width="44.70357471801333" height="22.52061935730414" as="geometry" />
+        <mxCell id="uQs1KfSV7rxMa4fCCKPU-345" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;生长观测&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="R38g8yzZNCz5mdvEYGyM-7" vertex="1">
+          <mxGeometry x="-25.963088195598175" y="105.49851013550506" width="44.70357471801333" height="22.52061935730414" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
