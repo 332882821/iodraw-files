@@ -90,7 +90,7 @@
             <mxPoint x="24500" y="10796" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-169" value="指导员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="drljghU39gG9ItoYXh6T-169" value="注册" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="24634.3" y="10776" width="140" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-171" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;fontStyle=0" parent="1" edge="1">
