@@ -1577,7 +1577,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-89" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;农技交流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=12;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="wdtAg5vwlMcg6ZvbmYp1-8" vertex="1">
-          <mxGeometry x="682.3290166416551" y="826.5503550667889" width="61.04681708803971" height="36.59600645561923" as="geometry" />
+          <mxGeometry x="671.0390166416552" y="745.870355066789" width="61.04681708803971" height="36.59600645561923" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-90" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="wdtAg5vwlMcg6ZvbmYp1-8" source="uQs1KfSV7rxMa4fCCKPU-91" edge="1">
           <mxGeometry relative="1" as="geometry">
