@@ -2019,7 +2019,7 @@
           <mxGeometry x="248.85192196653043" y="167.20357496462475" width="44.70357471801333" height="22.52061935730414" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-352" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;作物名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="xDZ_Skpq365j9dm8kgYx-4" vertex="1">
-          <mxGeometry x="96.54624163678454" y="2" width="44.70357471801333" height="22.52061935730414" as="geometry" />
+          <mxGeometry x="105.54624163678454" y="1" width="44.70357471801333" height="22.52061935730414" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-354" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;作物种类&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="xDZ_Skpq365j9dm8kgYx-4" vertex="1">
           <mxGeometry x="148.40309448572305" y="-16.200804635803685" width="44.70357471801333" height="22.52061935730414" as="geometry" />
