@@ -78,9 +78,7 @@
         <mxCell id="9S7mj9QBb8mT_77BGnan-88" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wdtAg5vwlMcg6ZvbmYp1-8" source="9S7mj9QBb8mT_77BGnan-86" target="uQs1KfSV7rxMa4fCCKPU-245" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1685.0701265760113" y="823.2929689584347" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1631.459806055402" y="823.2929689584347" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-86" value="查看" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fillColor=none;rotation=-15;container=0;" parent="wdtAg5vwlMcg6ZvbmYp1-8" vertex="1">
