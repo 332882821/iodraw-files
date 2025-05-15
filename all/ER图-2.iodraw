@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Jz8amVuvhhNjwr-Lkj5i">
-    <mxGraphModel dx="15438" dy="-5728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="14294" dy="-6395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1648,7 +1648,7 @@
           <mxGeometry x="583.6217231526331" y="779.8822206773153" width="61.04681708803971" height="36.59600645561923" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-50" value="农技交流分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=12;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="wdtAg5vwlMcg6ZvbmYp1-8" vertex="1">
-          <mxGeometry x="673.7801092896177" y="605.2161746486097" width="89.60786885245895" height="36.57933524159439" as="geometry" />
+          <mxGeometry x="643.8801092896177" y="558.3061746486097" width="89.60786885245895" height="36.57933524159439" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-56" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;分类名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="wdtAg5vwlMcg6ZvbmYp1-8" vertex="1">
           <mxGeometry x="733.4865199618912" y="665.4081235733247" width="61.0467330334397" height="36.58462738809813" as="geometry" />
