@@ -143,11 +143,6 @@
             <mxPoint x="292" y="748" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9S7mj9QBb8mT_77BGnan-106" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;container=0;rounded=0;strokeColor=default;strokeWidth=2;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="DrGa2a5rsKiGmDTL5Nhs-6" vertex="1" connectable="0">
-          <mxGeometry x="1664.095157497417" y="1360.870127472701" as="geometry">
-            <mxPoint x="-24" y="828" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-115" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="DrGa2a5rsKiGmDTL5Nhs-6" source="9S7mj9QBb8mT_77BGnan-113" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1558.9354072361712" y="1222.162907035472" as="targetPoint" />
@@ -555,11 +550,6 @@
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-446" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;container=0;rounded=0;strokeColor=default;strokeWidth=2;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="DrGa2a5rsKiGmDTL5Nhs-6" vertex="1" connectable="0">
           <mxGeometry x="720.6698720274981" y="1948.010691401496" as="geometry">
-            <mxPoint x="32" y="-1068" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9S7mj9QBb8mT_77BGnan-452" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;container=0;rounded=0;strokeColor=default;strokeWidth=2;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="DrGa2a5rsKiGmDTL5Nhs-6" vertex="1" connectable="0">
-          <mxGeometry x="845.0386459389465" y="2060.8796330515306" as="geometry">
             <mxPoint x="32" y="-1068" as="offset" />
           </mxGeometry>
         </mxCell>
