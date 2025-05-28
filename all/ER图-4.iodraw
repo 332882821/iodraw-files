@@ -1210,12 +1210,6 @@
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-354" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;作物种类&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="xDZ_Skpq365j9dm8kgYx-84" vertex="1">
           <mxGeometry x="990.3374774615212" y="705.8627799682904" width="60.31075219666605" height="27.127109680389076" as="geometry" />
         </mxCell>
-        <mxCell id="9S7mj9QBb8mT_77BGnan-199" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="xDZ_Skpq365j9dm8kgYx-84" target="9S7mj9QBb8mT_77BGnan-205" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="261.9645154834257" y="89.12990023760068" as="targetPoint" />
-            <mxPoint x="293.50168809340903" y="64.3851007816802" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-201" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="xDZ_Skpq365j9dm8kgYx-84" source="9S7mj9QBb8mT_77BGnan-202" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="292.1198915817537" y="102.69345507779485" as="targetPoint" />
@@ -1881,9 +1875,6 @@
             <mxPoint x="622.6896215401877" y="969.1873188582938" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9S7mj9QBb8mT_77BGnan-223" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;u style=&quot;font-size: 14px;&quot;&gt;收藏编号&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="xDZ_Skpq365j9dm8kgYx-84" vertex="1">
-          <mxGeometry x="558.047865131812" y="915.4495701183608" width="60.31075219666605" height="27.127109680389076" as="geometry" />
-        </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-225" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;备注&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="xDZ_Skpq365j9dm8kgYx-84" vertex="1">
           <mxGeometry x="561.6598216728396" y="995.2461993595351" width="60.31075219666605" height="27.127109680389076" as="geometry" />
         </mxCell>
@@ -1892,11 +1883,6 @@
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-230" value="收藏" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fillColor=none;rotation=0;container=0;" parent="xDZ_Skpq365j9dm8kgYx-84" vertex="1">
           <mxGeometry x="561.6594960063835" y="955.6241516594497" width="60.31075219666605" height="27.127109680389076" as="geometry" />
-        </mxCell>
-        <mxCell id="9S7mj9QBb8mT_77BGnan-222" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="xDZ_Skpq365j9dm8kgYx-84" source="9S7mj9QBb8mT_77BGnan-223" target="9S7mj9QBb8mT_77BGnan-230" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="562.3788693435205" y="969.1873188582938" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-143" value="农业资讯分类" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="xDZ_Skpq365j9dm8kgYx-84" vertex="1">
           <mxGeometry x="746.18" y="578.18" width="93.82" height="27.12" as="geometry" />
