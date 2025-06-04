@@ -327,9 +327,6 @@
         <mxCell id="QDHXhQLSgiY_y7tH-igC-32" value="病虫害方案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="24943.85" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="QDHXhQLSgiY_y7tH-igC-36" value="查看病虫害方案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="25370" y="11106" width="65.7" height="184.48" as="geometry" />
-        </mxCell>
         <mxCell id="QDHXhQLSgiY_y7tH-igC-44" value="农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="25125.85" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
@@ -391,8 +388,8 @@
         <mxCell id="iErYisv8Wl5oLz2TdvUK-2" value="查看病虫害方案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="24932.15" y="11146.52" width="65.7" height="184.48" as="geometry" />
         </mxCell>
-        <mxCell id="iErYisv8Wl5oLz2TdvUK-3" value="更新任务信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="25030" y="11146.52" width="65.7" height="183.48" as="geometry" />
+        <mxCell id="iErYisv8Wl5oLz2TdvUK-3" value="提供病虫害方案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;direction=south;align=center;fontSize=20;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;textDirection=vertical-lr;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="25038.15" y="11146.52" width="65.7" height="183.48" as="geometry" />
         </mxCell>
         <mxCell id="iErYisv8Wl5oLz2TdvUK-6" value="" style="group;fontSize=20;fontStyle=0" vertex="1" connectable="0" parent="1">
           <mxGeometry x="24958.5" y="11332" width="121.3" height="60" as="geometry" />
