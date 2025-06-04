@@ -261,7 +261,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TcA92Lp06Bhrq94k1V0Q-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;startArrow=open;startFill=0;" parent="1" edge="1">
+        <mxCell id="TcA92Lp06Bhrq94k1V0Q-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;startArrow=openThin;startFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="796" y="620" as="sourcePoint" />
             <mxPoint x="948" y="620" as="targetPoint" />
