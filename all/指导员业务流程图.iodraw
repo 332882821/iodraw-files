@@ -388,6 +388,9 @@
         <mxCell id="QDHXhQLSgiY_y7tH-igC-63" value="任务信息表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=default;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="25146.35" y="11392" width="126.15" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iErYisv8Wl5oLz2TdvUK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iErYisv8Wl5oLz2TdvUK-1" target="QDHXhQLSgiY_y7tH-igC-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iErYisv8Wl5oLz2TdvUK-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;fillColor=none;direction=north;container=0;labelBorderColor=none;rotation=-180;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="24964.15" y="11099" width="110" height="36.519999999999726" as="geometry" />
         </mxCell>
