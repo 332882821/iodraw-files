@@ -94,7 +94,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.962;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;fontStyle=0" parent="1" source="xKOgp8LKYkLA_o67TD1X-9" target="xKOgp8LKYkLA_o67TD1X-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="24940" y="10915" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xKOgp8LKYkLA_o67TD1X-20" value="病虫害库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="23724.3" y="11040" width="160" height="39.5" as="geometry" />
