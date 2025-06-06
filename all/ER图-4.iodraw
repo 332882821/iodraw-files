@@ -1775,7 +1775,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;u style=&quot;font-size: 14px;&quot;&gt;诊断编号&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-12228.113253599" y="7891.591226696444" width="60.31075219666605" height="27.127109680389076" as="geometry" />
+          <mxGeometry x="-12143.173253599" y="7877.651226696445" width="60.31075219666605" height="27.127109680389076" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;虫害详情&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-12234.131880908195" y="7960.462417959929" width="60.31075219666605" height="27.127109680389076" as="geometry" />
@@ -1783,7 +1783,7 @@
         <mxCell id="UNURLWZO23DxIrxSIrnp-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;病虫害诊断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;container=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-12150.428575157155" y="7932.345594405595" width="74.8168943397436" height="27.130069930069954" as="geometry" />
         </mxCell>
-        <mxCell id="UNURLWZO23DxIrxSIrnp-3" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;startArrow=none;startFill=0;" parent="1" source="UNURLWZO23DxIrxSIrnp-4" edge="1">
+        <mxCell id="UNURLWZO23DxIrxSIrnp-3" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=none;startArrow=none;startFill=0;" parent="1" source="UNURLWZO23DxIrxSIrnp-4" edge="1" target="UNURLWZO23DxIrxSIrnp-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-12128.259845767921" y="7932.3446972768" as="targetPoint" />
           </mxGeometry>
@@ -1809,7 +1809,11 @@
           <mxGeometry x="-12041.534430756097" y="7968.40104773868" width="60.31075219666605" height="27.127109680389076" as="geometry" />
         </mxCell>
         <mxCell id="UNURLWZO23DxIrxSIrnp-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=none;startArrow=none;startFill=0;" parent="1" source="UNURLWZO23DxIrxSIrnp-23" target="UNURLWZO23DxIrxSIrnp-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-12140" y="7960" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
