@@ -27,7 +27,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;虫害名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="560" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="EWBYIpWJwCG6Uv1SdfLI-9" target="EWBYIpWJwCG6Uv1SdfLI-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发生范围&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="170" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EWBYIpWJwCG6Uv1SdfLI-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="EWBYIpWJwCG6Uv1SdfLI-15" target="EWBYIpWJwCG6Uv1SdfLI-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
