@@ -39,13 +39,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="630" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="A_76XB7JRG83LFDcwgLu-17" target="x3-HgDLQeDBz-ixpbND3-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;分类名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="A_76XB7JRG83LFDcwgLu-18" target="x3-HgDLQeDBz-ixpbND3-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -57,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;帖子内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-26" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="A_76XB7JRG83LFDcwgLu-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;置顶时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
