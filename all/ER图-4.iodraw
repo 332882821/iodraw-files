@@ -1361,7 +1361,7 @@
           <mxGeometry x="-11985.897361059888" y="7657.060248500154" width="60.31075219666605" height="27.127109680389076" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;作物名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-11957.00896080438" y="7603.915783447188" width="60.31075219666605" height="27.127109680389076" as="geometry" />
+          <mxGeometry x="-11957.01" y="7603.92" width="57.99" height="26.08" as="geometry" />
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-34" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uQs1KfSV7rxMa4fCCKPU-35" target="uQs1KfSV7rxMa4fCCKPU-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
