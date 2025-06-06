@@ -1040,14 +1040,6 @@
         <mxCell id="UNURLWZO23DxIrxSIrnp-156" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="uQs1KfSV7rxMa4fCCKPU-258" target="uQs1KfSV7rxMa4fCCKPU-245" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-361" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="1" source="uQs1KfSV7rxMa4fCCKPU-354" target="uQs1KfSV7rxMa4fCCKPU-176" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-175" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;fontColor=default;strokeWidth=1;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=none;startArrow=none;startFill=0;" parent="1" target="uQs1KfSV7rxMa4fCCKPU-352" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-12261.643788438229" y="8153.660309724462" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-233" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-12498.56202516129" y="8191.363636363636" as="targetPoint" />
@@ -1131,12 +1123,6 @@
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-198" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;防治虫害&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-12474.533173461952" y="8084.902026633183" width="60.31075219666605" height="27.127109680389076" as="geometry" />
         </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-199" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="1" source="uQs1KfSV7rxMa4fCCKPU-200" target="uQs1KfSV7rxMa4fCCKPU-176" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-200" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;作物照片&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-12152.827552935201" y="8064.637492477238" width="60.31075219666605" height="27.127109680389076" as="geometry" />
-        </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-201" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="1" source="uQs1KfSV7rxMa4fCCKPU-202" target="uQs1KfSV7rxMa4fCCKPU-176" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1180,12 +1166,6 @@
         </mxCell>
         <mxCell id="uQs1KfSV7rxMa4fCCKPU-214" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;收藏数&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-12156.089046134171" y="8224.131691759716" width="60.31075219666605" height="27.127109680389076" as="geometry" />
-        </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-352" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;作物名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-12349.426456604377" y="8023.931931006872" width="60.31075219666605" height="27.127109680389076" as="geometry" />
-        </mxCell>
-        <mxCell id="uQs1KfSV7rxMa4fCCKPU-354" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;作物种类&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=none;container=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-12241.66252253848" y="8005.862779968291" width="60.31075219666605" height="27.127109680389076" as="geometry" />
         </mxCell>
         <mxCell id="9S7mj9QBb8mT_77BGnan-201" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="1" source="9S7mj9QBb8mT_77BGnan-202" edge="1">
           <mxGeometry relative="1" as="geometry">
