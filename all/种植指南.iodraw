@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生长周期&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="490" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-23" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="A_76XB7JRG83LFDcwgLu-20" target="x3-HgDLQeDBz-ixpbND3-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_76XB7JRG83LFDcwgLu-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;收藏数&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
