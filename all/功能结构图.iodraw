@@ -183,7 +183,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-55" value="农业资讯浏览" style="whiteSpace=wrap;strokeWidth=3;flipV=1;direction=south;labelBackgroundColor=none;fontSize=30;flipH=1;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="1915" y="230" width="100" height="240" as="geometry" />
+          <mxGeometry x="1810" y="230" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r4G_xtVmuYtl3c2tFIKF-58" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
