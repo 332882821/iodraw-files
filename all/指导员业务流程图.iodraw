@@ -203,7 +203,7 @@
         <mxCell id="QDHXhQLSgiY_y7tH-igC-32" value="病虫害方案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="24326" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="QDHXhQLSgiY_y7tH-igC-44" value="农业资讯" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="QDHXhQLSgiY_y7tH-igC-44" value="任务信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="24508" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="QDHXhQLSgiY_y7tH-igC-45" value="" style="group;fontSize=20;fontStyle=0" parent="1" vertex="1" connectable="0">
