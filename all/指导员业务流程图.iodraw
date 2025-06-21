@@ -83,24 +83,14 @@
         <mxCell id="drljghU39gG9ItoYXh6T-176" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.962;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;fontStyle=0" parent="1" source="drljghU39gG9ItoYXh6T-147" target="drljghU39gG9ItoYXh6T-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-183" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;fontStyle=0" parent="1" target="drljghU39gG9ItoYXh6T-179" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="24023" y="11000" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="23960" y="11020" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-179" value="农技交流" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="23728.85" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-184" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;fontStyle=0" parent="1" target="drljghU39gG9ItoYXh6T-181" edge="1">
+        <mxCell id="drljghU39gG9ItoYXh6T-184" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;endArrow=classic;fontStyle=0" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="24241" y="11000" as="sourcePoint" />
+            <mxPoint x="24241" y="11040" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="drljghU39gG9ItoYXh6T-181" value="作物指南" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="24161" y="11040" width="160" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="drljghU39gG9ItoYXh6T-182" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fontStyle=0" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
